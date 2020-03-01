@@ -11,11 +11,11 @@ Access to our unofficial manuscript [HERE](https://arxiv.org/abs/1902.00163).
 Context plays an important role in visual recognition. Recent studies have shown that visual recognition networks can be fooled by placing objects in inconsistent contexts (e.g. a cow in the ocean). To understand and model the role of contextual information in visual recognition, we systematically and quantitatively investigated ten critical properties of where, when, and how context modulates recognition including amount of context, context and object resolution, geometrical structure of context, context congruence,  time required to incorporate contextual information, and temporal dynamics of contextual modulation. The tasks involve recognizing a target object surrounded with context in a natural image. As an essential benchmark, we first describe a series of psychophysics experiments, where we alter one aspect of context at a time, and quantify human recognition accuracy. To computationally assess performance on the same tasks, we propose a biologically inspired context aware object recognition model consisting of a two-stream architecture. The model processes visual information at the fovea and periphery in parallel, dynamically incorporates both object and contextual information, and sequentially reasons about the class label for the target object. Across a wide range of behavioral tasks, the model approximates human level performance without retraining for each task, captures the dependence of context enhancement on image properties, and provides initial steps towards integrating scene and object information for visual recognition.
 
 
-| [![ExpA2: Amount of Context](samples/expA2.gif)](samples/expA2.gif)  | [![ExpB1: Blurred Context](samples/expB1.gif)](samples/expB1.gif) |[![ExpB4: Jigsaw Context](gif/expB4.gif)](gif/expB4.gif)  |
+| [![ExpA2: Amount of Context](samples/expA2.gif)](samples/expA2.gif)  | [![ExpB1: Blurred Context](samples/expB1.gif)](samples/expB1.gif) |[![ExpB4: Jigsaw Context](samples/expB4.gif)](samples/expB4.gif)  |
 |:---:|:---:|:---:|
 | ExpA2: Amount of Context | ExpB1: Blurred Context | ExpB4: Jigsaw Context | 
 
-| [![ExpB5: Incongruent Context](samples/expB5.gif)](samples/expB5.gif)  | [![ExpC2: Backward Masking](samples/expC2.gif)](samples/expC2.gif) |[![ExpC3: Asynchronous Context Presentation](gif/expC3.gif)](gif/expC3.gif)  |
+| [![ExpB5: Incongruent Context](samples/expB5.gif)](samples/expB5.gif)  | [![ExpC2: Backward Masking](samples/expC2.gif)](samples/expC2.gif) |[![ExpC3: Asynchronous Context Presentation](samples/expC3.gif)](samples/expC3.gif)  |
 |:---:|:---:|:---:|
 | ExpB5: Incongruent Context | ExpC2: Backward Masking | ExpC3: Asynchronous Context Presentation | 
 

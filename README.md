@@ -35,7 +35,7 @@ Donwload the MSCOCO dataset ***2014*** train and val image sets from their offic
 
 Generate all training images for computational model (CATNet) by running the script ```Matlab/Color_GenerateMSCOCOtrainTFmodel.m```. Examples of training images have been stored in ```Datasets/MSCOCO/``` for visualization.
 
-Generate text files listing all training images (to be loaded to pytorch for training) by running the script ```Matlab/Color_GenerateMSCOCOtrainDatalist.m```
+Generate text files listing all training images (to be loaded to pytorch for training) by running the script ```Matlab/Color_GenerateMSCOCOtrainDatalist.m```. The script create all text (.txt) files and store them in ```Datalist/```. One can navigate to ```Datalist/``` to check out all those .txt files.
 
 We used the images for psychophysics expeirments to test computational models. To generate these images, run ```Matlab/demo_expA.m```, ```Matlab/demo_expB.m```, and so on. The experiment naming conventions in the source codes matching with the expeirment definitions in the paper are listed here:
 * expA: expA1, expA2
@@ -179,7 +179,7 @@ To plot results for human performance, one can either plot the results for indiv
 
 ### Launching the experiment online using Elastic Cloud Computing (EC2) in Amazon Web Services (AWS)
 
-Copy the downloaded source codes to EC2 server and run the psiturk experiment online. Refer to [HERE](https://drive.google.com/open?id=1FblDG7OuWXVRfWo0Djb5eDiYgKqnk9wU) for detailed instruction
+Copy the downloaded source codes to EC2 server and run the psiturk experiment online. Refer to [HERE](https://drive.google.com/open?id=1FblDG7OuWXVRfWo0Djb5eDiYgKqnk9wU) for detailed instruction.
 
 ## Notes
 

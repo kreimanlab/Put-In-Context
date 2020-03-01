@@ -125,7 +125,7 @@ Run ```ProcessModel_expB_clicknet.m``` and ```ProcessModel_expG_clicknet.m``` to
 
 ***NOTE*** The script saves the results based on the model name. For our model, change to the following in these evaluation scripts: 
 ```
-save(['Mat/clicknet_noalphaloss_lstm_' expname '.mat'],'mturkData');
+save(['Mat/clicknet_noalphaloss_' expname '.mat'],'mturkData');
 ```
 
 To plot results, run ```PlotExpA_model.m``` to plot results for expA. Similarly for other experiments. To re-produce the exact results in our CVPR paper, run ```CVPR_expAll.m```. 

@@ -31,6 +31,15 @@ Download matlab files (.mat) from [HERE](https://drive.google.com/open?id=19pjK5
 
 Donwload the MSCOCO dataset ***2014*** train and val image sets from their official webiste [HERE](http://cocodataset.org/#download).
 
+### Train and Test Set 
+
+Generate all training images for computational model (CATNet) by running the script ```Matlab/Color_GenerateMSCOCOtrainTFmodel.m```. Examples of training images have been stored in ```Datasets/MSCOCO/``` for visualization.
+
+Generate text files listing all training images (to be loaded to pytorch for training) by running the script ```Matlab/Color_GenerateMSCOCOtrainDatalist.m```
+
+We used the images for psychophysics expeirments to test computational models. To generate test images for different psychophysics experiments, one can run ```Matlab/demo_expA.m```, ```Matlab/demo_expB.m```, and so on. 
+
+To have a quick idea of how generated test images look like, examples of generated test images for experiment A have been stored in ```Matlab/Stimulus/keyframe_expA/```. Running ```Matlab/demo_expA.m``` also generates corresponding stimulus (.gif) files for presentation on Amazon Mechanical Turk. See ```samples``` folder for examples of GIF files.
 
 ## Computational Model - CATNet
 

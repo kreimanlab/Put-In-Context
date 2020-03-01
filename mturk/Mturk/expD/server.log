@@ -1,0 +1,19 @@
+2019-10-26 22:18:22,843 already_started_exp (1008) {'assignmentId': [u'3QY7M81QH87ZHIAZ281SDOE2R2E7KJ'], 'workerId': [u'A3SZF91DCOQPW3'], 'hitId': [u'3T2HW4QDUVSJPJOBZQDDEIWACV09CT'], 'mode': [u'live']}
+2019-10-26 22:27:10,140 already_started_exp (1008) {'assignmentId': [u'3BDCF01OGYFTG8OIAH3T51BEK1SYLE'], 'workerId': [u'A2HPQXV92ABG2C'], 'hitId': [u'3T2HW4QDUVSJPJOBZQDDEIWACV09CT'], 'mode': [u'live']}
+2019-10-26 22:27:22,298 already_started_exp (1008) {'assignmentId': [u'3BDCF01OGYFTG8OIAH3T51BEK1SYLE'], 'workerId': [u'A2HPQXV92ABG2C'], 'hitId': [u'3T2HW4QDUVSJPJOBZQDDEIWACV09CT'], 'mode': [u'live']}
+2019-10-26 22:38:59,831 already_started_exp (1008) {'assignmentId': [u'3HVVDCPGTFDHZLWNJQ5KRSLVEEEYTH'], 'workerId': [u'A3F51C49T9A34D'], 'hitId': [u'3T2HW4QDUVSJPJOBZQDDEIWACV09CT'], 'mode': [u'live']}
+2019-10-27 00:21:25,722 already_started_exp (1008) {'assignmentId': [u'3IXQG4FA2UJ22YUYBSMJSHMIZZ2B9Q'], 'workerId': [u'A1HDD2B9I6D33I'], 'hitId': [u'3T2HW4QDUVSJPJOBZQDDEIWACV09CT'], 'mode': [u'live']}
+2019-10-27 00:21:41,955 already_started_exp (1008) {'assignmentId': [u'3IXQG4FA2UJ22YUYBSMJSHMIZZ2B9Q'], 'workerId': [u'A1HDD2B9I6D33I'], 'hitId': [u'3T2HW4QDUVSJPJOBZQDDEIWACV09CT'], 'mode': [u'live']}
+[2019-10-27 00:27:47 +0000] [1659] [CRITICAL] WORKER TIMEOUT (pid:1665)
+[2019-10-27 00:27:49 +0000] [1659] [CRITICAL] WORKER TIMEOUT (pid:1664)
+[2019-10-27 00:28:55 +0000] [1659] [CRITICAL] WORKER TIMEOUT (pid:1790)
+2019-10-27 01:05:42,729 hit_not_registered_with_ad_server (1018) {'assignmentId': [u'3TK8OJTYM2623Z8BXY9GFJG47VYVP9'], 'workerId': [u'A1P3Z24Y6GRNVA'], 'hitId': [u'3T2HW4QDUVSJPJOBZQDDEIWACV09CT'], 'mode': [u'live']}
+2019-10-27 01:55:17,653 already_started_exp (1008) {'assignmentId': [u'3HPZF4IVNNE0D4UCX4AU2ILRQTUYCG'], 'workerId': [u'A3RCI8CN5BSLTZ'], 'hitId': [u'3T2HW4QDUVSJPJOBZQDDEIWACV09CT'], 'mode': [u'live']}
+2019-10-27 02:19:12,382 already_started_exp (1008) {'assignmentId': [u'3QECW5O0KIMJXXM38O0NGVN2JAS5TS'], 'workerId': [u'A2PWE9TKEM99BA'], 'hitId': [u'3T2HW4QDUVSJPJOBZQDDEIWACV09CT'], 'mode': [u'live']}
+2019-10-27 02:40:49,210 already_started_exp (1008) {'assignmentId': [u'3RANCT1ZVG20MQI193HAOD9WCKLBUQ'], 'workerId': [u'A1QDDGYC5UB9YA'], 'hitId': [u'3T2HW4QDUVSJPJOBZQDDEIWACV09CT'], 'mode': [u'live']}
+[2019-10-27 02:45:11 +0000] [1659] [CRITICAL] WORKER TIMEOUT (pid:1794)
+[2019-10-27 02:45:41 +0000] [1659] [CRITICAL] WORKER TIMEOUT (pid:1786)
+2019-10-27 02:55:54,760 already_started_exp (1008) {'assignmentId': [u'3Z7EFSHGNAZBDZ42S8OSJ4EION2XCB'], 'workerId': [u'ABQ4JY52NCREZ'], 'hitId': [u'3T2HW4QDUVSJPJOBZQDDEIWACV09CT'], 'mode': [u'live']}
+2019-10-27 02:56:14,089 already_started_exp (1008) {'assignmentId': [u'3Z7EFSHGNAZBDZ42S8OSJ4EION2XCB'], 'workerId': [u'ABQ4JY52NCREZ'], 'hitId': [u'3T2HW4QDUVSJPJOBZQDDEIWACV09CT'], 'mode': [u'live']}
+2019-10-27 03:22:19,023 already_started_exp (1008) {'assignmentId': [u'3CFVK00FWM6RXOEC4Y81MARLLSHL6L'], 'workerId': [u'A2XM0NXWJSURRX'], 'hitId': [u'3T2HW4QDUVSJPJOBZQDDEIWACV09CT'], 'mode': [u'live']}
+2019-10-27 06:43:44,841 hit_assign_worker_id_not_set_in_exp (1003) {'assignmentId': [u'3VHHR074H42A1OSHN8DTSORHG33L7M'], 'hitId': [u'3T2HW4QDUVSJPJOBZQDDEIWACV09CT']}

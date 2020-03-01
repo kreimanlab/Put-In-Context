@@ -1,0 +1,2012 @@
+[08/16/17 16:32:22] [INFO] Reading configuration file /usr/local/lib/python2.7/site-packages/psiturk/tunnel/ngrok-config
+[08/16/17 16:32:22] [INFO] [client] Trusting root CAs: [assets/client/tls/ngrokroot.crt]
+[08/16/17 16:32:22] [INFO] [view] [web] Serving web interface on 127.0.0.1:4040
+[08/16/17 16:32:22] [INFO] Checking for update
+[08/16/17 16:32:22] [EROR] control recovering from failure dial tcp 173.236.137.204:4443: connection refused
+[08/16/17 16:32:22] [INFO] Waiting 1 seconds before reconnecting
+[08/16/17 16:32:22] [INFO] No update available
+[08/16/17 16:32:23] [EROR] control recovering from failure dial tcp 173.236.137.204:4443: connection refused
+[08/16/17 16:32:23] [INFO] Waiting 2 seconds before reconnecting
+[08/16/17 16:32:25] [EROR] control recovering from failure dial tcp 173.236.137.204:4443: connection refused
+[08/16/17 16:32:25] [INFO] Waiting 4 seconds before reconnecting
+[08/16/17 16:32:30] [EROR] control recovering from failure dial tcp 173.236.137.204:4443: connection refused
+[08/16/17 16:32:30] [INFO] Waiting 8 seconds before reconnecting
+[08/16/17 16:32:38] [EROR] control recovering from failure dial tcp 173.236.137.204:4443: connection refused
+[08/16/17 16:32:38] [INFO] Waiting 16 seconds before reconnecting
+[08/16/17 16:32:54] [EROR] control recovering from failure dial tcp 173.236.137.204:4443: connection refused
+[08/16/17 16:32:54] [INFO] Waiting 30 seconds before reconnecting
+[08/16/17 16:33:24] [EROR] control recovering from failure dial tcp 173.236.137.204:4443: connection refused
+[08/16/17 16:33:24] [INFO] Waiting 30 seconds before reconnecting
+[08/16/17 16:33:54] [EROR] control recovering from failure dial tcp 173.236.137.204:4443: connection refused
+[08/16/17 16:33:54] [INFO] Waiting 30 seconds before reconnecting
+[08/16/17 16:34:24] [EROR] control recovering from failure dial tcp 173.236.137.204:4443: connection refused
+[08/16/17 16:34:24] [INFO] Waiting 30 seconds before reconnecting
+[08/16/17 16:34:54] [EROR] control recovering from failure dial tcp 173.236.137.204:4443: connection refused
+[08/16/17 16:34:54] [INFO] Waiting 30 seconds before reconnecting
+[08/16/17 16:35:24] [EROR] control recovering from failure dial tcp 173.236.137.204:4443: connection refused
+[08/16/17 16:35:24] [INFO] Waiting 30 seconds before reconnecting
+[08/16/17 16:35:54] [EROR] control recovering from failure dial tcp 173.236.137.204:4443: connection refused
+[08/16/17 16:35:54] [INFO] Waiting 30 seconds before reconnecting
+[08/16/17 16:36:24] [EROR] control recovering from failure dial tcp 173.236.137.204:4443: connection refused
+[08/16/17 16:36:24] [INFO] Waiting 30 seconds before reconnecting
+[08/16/17 16:36:54] [EROR] control recovering from failure dial tcp 173.236.137.204:4443: connection refused
+[08/16/17 16:36:54] [INFO] Waiting 30 seconds before reconnecting
+[08/16/17 16:37:25] [EROR] control recovering from failure dial tcp 173.236.137.204:4443: connection refused
+[08/16/17 16:37:25] [INFO] Waiting 30 seconds before reconnecting
+[08/16/17 16:37:55] [EROR] control recovering from failure dial tcp 173.236.137.204:4443: connection refused
+[08/16/17 16:37:55] [INFO] Waiting 30 seconds before reconnecting
+[08/16/17 16:38:25] [EROR] control recovering from failure dial tcp 173.236.137.204:4443: connection refused
+[08/16/17 16:38:25] [INFO] Waiting 30 seconds before reconnecting
+[08/16/17 16:38:55] [EROR] control recovering from failure dial tcp 173.236.137.204:4443: connection refused
+[08/16/17 16:38:55] [INFO] Waiting 30 seconds before reconnecting
+[08/16/17 16:39:25] [EROR] control recovering from failure dial tcp 173.236.137.204:4443: connection refused
+[08/16/17 16:39:25] [INFO] Waiting 30 seconds before reconnecting
+[08/16/17 16:39:55] [EROR] control recovering from failure dial tcp 173.236.137.204:4443: connection refused
+[08/16/17 16:39:55] [INFO] Waiting 30 seconds before reconnecting
+[08/16/17 16:40:25] [EROR] control recovering from failure dial tcp 173.236.137.204:4443: connection refused
+[08/16/17 16:40:25] [INFO] Waiting 30 seconds before reconnecting
+[08/16/17 16:40:55] [EROR] control recovering from failure dial tcp 173.236.137.204:4443: connection refused
+[08/16/17 16:40:55] [INFO] Waiting 30 seconds before reconnecting
+[08/16/17 16:41:25] [EROR] control recovering from failure dial tcp 173.236.137.204:4443: connection refused
+[08/16/17 16:41:25] [INFO] Waiting 30 seconds before reconnecting
+[08/16/17 16:41:55] [EROR] control recovering from failure dial tcp 173.236.137.204:4443: connection refused
+[08/16/17 16:41:55] [INFO] Waiting 30 seconds before reconnecting
+[08/16/17 16:42:25] [EROR] control recovering from failure dial tcp 173.236.137.204:4443: connection refused
+[08/16/17 16:42:25] [INFO] Waiting 30 seconds before reconnecting
+[08/16/17 16:42:55] [EROR] control recovering from failure dial tcp 173.236.137.204:4443: connection refused
+[08/16/17 16:42:55] [INFO] Waiting 30 seconds before reconnecting
+[08/16/17 16:43:25] [EROR] control recovering from failure dial tcp 173.236.137.204:4443: connection refused
+[08/16/17 16:43:25] [INFO] Waiting 30 seconds before reconnecting
+[08/16/17 16:43:56] [EROR] control recovering from failure dial tcp 173.236.137.204:4443: connection refused
+[08/16/17 16:43:56] [INFO] Waiting 30 seconds before reconnecting
+[08/16/17 16:44:26] [EROR] control recovering from failure dial tcp 173.236.137.204:4443: connection refused
+[08/16/17 16:44:26] [INFO] Waiting 30 seconds before reconnecting
+[2017-08-17 14:01:26 -0400] [7499] [CRITICAL] WORKER TIMEOUT (pid:7506)
+[2017-08-17 14:01:26 -0400] [7499] [CRITICAL] WORKER TIMEOUT (pid:7508)
+[2017-08-17 14:01:26 -0400] [7499] [CRITICAL] WORKER TIMEOUT (pid:7510)
+[2018-08-20 02:59:45 +0000] [23308] [CRITICAL] WORKER TIMEOUT (pid:23333)
+[2018-08-20 02:59:45 +0000] [23308] [CRITICAL] WORKER TIMEOUT (pid:23346)
+[2018-08-20 02:59:45 +0000] [23308] [CRITICAL] WORKER TIMEOUT (pid:23352)
+[2018-08-20 12:15:31,427] ERROR in app: Exception on /undefined [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/experiment.py", line 724, in regularpage
+    return render_template(pagename)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 133, in render_template
+    return _render(ctx.app.jinja_env.get_or_select_template(template_name_or_list),
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 830, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 791, in get_template
+    return self._load_template(name, self.make_globals(globals))
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 765, in _load_template
+    template = self.loader.load(self, name, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/loaders.py", line 113, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 57, in get_source
+    return self._get_source_fast(environment, template)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 85, in _get_source_fast
+    raise TemplateNotFound(template)
+TemplateNotFound: undefined
+[2018-08-20 12:15:32,899] ERROR in app: Exception on /undefined [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/experiment.py", line 724, in regularpage
+    return render_template(pagename)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 133, in render_template
+    return _render(ctx.app.jinja_env.get_or_select_template(template_name_or_list),
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 830, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 791, in get_template
+    return self._load_template(name, self.make_globals(globals))
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 765, in _load_template
+    template = self.loader.load(self, name, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/loaders.py", line 113, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 57, in get_source
+    return self._get_source_fast(environment, template)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 85, in _get_source_fast
+    raise TemplateNotFound(template)
+TemplateNotFound: undefined
+[2018-08-20 12:15:33,536] ERROR in app: Exception on /undefined [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/experiment.py", line 724, in regularpage
+    return render_template(pagename)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 133, in render_template
+    return _render(ctx.app.jinja_env.get_or_select_template(template_name_or_list),
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 830, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 791, in get_template
+    return self._load_template(name, self.make_globals(globals))
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 765, in _load_template
+    template = self.loader.load(self, name, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/loaders.py", line 113, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 57, in get_source
+    return self._get_source_fast(environment, template)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 85, in _get_source_fast
+    raise TemplateNotFound(template)
+TemplateNotFound: undefined
+[2018-08-20 12:15:34,038] ERROR in app: Exception on /undefined [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/experiment.py", line 724, in regularpage
+    return render_template(pagename)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 133, in render_template
+    return _render(ctx.app.jinja_env.get_or_select_template(template_name_or_list),
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 830, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 791, in get_template
+    return self._load_template(name, self.make_globals(globals))
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 765, in _load_template
+    template = self.loader.load(self, name, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/loaders.py", line 113, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 57, in get_source
+    return self._get_source_fast(environment, template)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 85, in _get_source_fast
+    raise TemplateNotFound(template)
+TemplateNotFound: undefined
+[2018-08-20 12:15:34,483] ERROR in app: Exception on /undefined [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/experiment.py", line 724, in regularpage
+    return render_template(pagename)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 133, in render_template
+    return _render(ctx.app.jinja_env.get_or_select_template(template_name_or_list),
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 830, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 791, in get_template
+    return self._load_template(name, self.make_globals(globals))
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 765, in _load_template
+    template = self.loader.load(self, name, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/loaders.py", line 113, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 57, in get_source
+    return self._get_source_fast(environment, template)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 85, in _get_source_fast
+    raise TemplateNotFound(template)
+TemplateNotFound: undefined
+[2018-08-20 12:15:34,762] ERROR in app: Exception on /undefined [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/experiment.py", line 724, in regularpage
+    return render_template(pagename)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 133, in render_template
+    return _render(ctx.app.jinja_env.get_or_select_template(template_name_or_list),
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 830, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 791, in get_template
+    return self._load_template(name, self.make_globals(globals))
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 765, in _load_template
+    template = self.loader.load(self, name, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/loaders.py", line 113, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 57, in get_source
+    return self._get_source_fast(environment, template)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 85, in _get_source_fast
+    raise TemplateNotFound(template)
+TemplateNotFound: undefined
+[2018-08-20 12:15:34,970] ERROR in app: Exception on /undefined [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/experiment.py", line 724, in regularpage
+    return render_template(pagename)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 133, in render_template
+    return _render(ctx.app.jinja_env.get_or_select_template(template_name_or_list),
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 830, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 791, in get_template
+    return self._load_template(name, self.make_globals(globals))
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 765, in _load_template
+    template = self.loader.load(self, name, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/loaders.py", line 113, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 57, in get_source
+    return self._get_source_fast(environment, template)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 85, in _get_source_fast
+    raise TemplateNotFound(template)
+TemplateNotFound: undefined
+[2018-08-20 12:15:35,175] ERROR in app: Exception on /undefined [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/experiment.py", line 724, in regularpage
+    return render_template(pagename)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 133, in render_template
+    return _render(ctx.app.jinja_env.get_or_select_template(template_name_or_list),
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 830, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 791, in get_template
+    return self._load_template(name, self.make_globals(globals))
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 765, in _load_template
+    template = self.loader.load(self, name, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/loaders.py", line 113, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 57, in get_source
+    return self._get_source_fast(environment, template)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 85, in _get_source_fast
+    raise TemplateNotFound(template)
+TemplateNotFound: undefined
+[2018-08-20 12:15:35,361] ERROR in app: Exception on /undefined [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/experiment.py", line 724, in regularpage
+    return render_template(pagename)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 133, in render_template
+    return _render(ctx.app.jinja_env.get_or_select_template(template_name_or_list),
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 830, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 791, in get_template
+    return self._load_template(name, self.make_globals(globals))
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 765, in _load_template
+    template = self.loader.load(self, name, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/loaders.py", line 113, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 57, in get_source
+    return self._get_source_fast(environment, template)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 85, in _get_source_fast
+    raise TemplateNotFound(template)
+TemplateNotFound: undefined
+[2018-08-20 12:15:35,544] ERROR in app: Exception on /undefined [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/experiment.py", line 724, in regularpage
+    return render_template(pagename)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 133, in render_template
+    return _render(ctx.app.jinja_env.get_or_select_template(template_name_or_list),
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 830, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 791, in get_template
+    return self._load_template(name, self.make_globals(globals))
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 765, in _load_template
+    template = self.loader.load(self, name, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/loaders.py", line 113, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 57, in get_source
+    return self._get_source_fast(environment, template)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 85, in _get_source_fast
+    raise TemplateNotFound(template)
+TemplateNotFound: undefined
+[2018-08-20 12:15:35,731] ERROR in app: Exception on /undefined [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/experiment.py", line 724, in regularpage
+    return render_template(pagename)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 133, in render_template
+    return _render(ctx.app.jinja_env.get_or_select_template(template_name_or_list),
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 830, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 791, in get_template
+    return self._load_template(name, self.make_globals(globals))
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 765, in _load_template
+    template = self.loader.load(self, name, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/loaders.py", line 113, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 57, in get_source
+    return self._get_source_fast(environment, template)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 85, in _get_source_fast
+    raise TemplateNotFound(template)
+TemplateNotFound: undefined
+[2018-08-20 12:15:35,909] ERROR in app: Exception on /undefined [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/experiment.py", line 724, in regularpage
+    return render_template(pagename)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 133, in render_template
+    return _render(ctx.app.jinja_env.get_or_select_template(template_name_or_list),
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 830, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 791, in get_template
+    return self._load_template(name, self.make_globals(globals))
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 765, in _load_template
+    template = self.loader.load(self, name, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/loaders.py", line 113, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 57, in get_source
+    return self._get_source_fast(environment, template)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 85, in _get_source_fast
+    raise TemplateNotFound(template)
+TemplateNotFound: undefined
+[2018-08-20 12:15:36,090] ERROR in app: Exception on /undefined [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/experiment.py", line 724, in regularpage
+    return render_template(pagename)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 133, in render_template
+    return _render(ctx.app.jinja_env.get_or_select_template(template_name_or_list),
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 830, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 791, in get_template
+    return self._load_template(name, self.make_globals(globals))
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 765, in _load_template
+    template = self.loader.load(self, name, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/loaders.py", line 113, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 57, in get_source
+    return self._get_source_fast(environment, template)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 85, in _get_source_fast
+    raise TemplateNotFound(template)
+TemplateNotFound: undefined
+[2018-08-20 12:15:36,280] ERROR in app: Exception on /undefined [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/experiment.py", line 724, in regularpage
+    return render_template(pagename)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 133, in render_template
+    return _render(ctx.app.jinja_env.get_or_select_template(template_name_or_list),
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 830, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 791, in get_template
+    return self._load_template(name, self.make_globals(globals))
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 765, in _load_template
+    template = self.loader.load(self, name, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/loaders.py", line 113, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 57, in get_source
+    return self._get_source_fast(environment, template)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 85, in _get_source_fast
+    raise TemplateNotFound(template)
+TemplateNotFound: undefined
+[2018-08-20 12:15:36,482] ERROR in app: Exception on /undefined [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/experiment.py", line 724, in regularpage
+    return render_template(pagename)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 133, in render_template
+    return _render(ctx.app.jinja_env.get_or_select_template(template_name_or_list),
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 830, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 791, in get_template
+    return self._load_template(name, self.make_globals(globals))
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 765, in _load_template
+    template = self.loader.load(self, name, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/loaders.py", line 113, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 57, in get_source
+    return self._get_source_fast(environment, template)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 85, in _get_source_fast
+    raise TemplateNotFound(template)
+TemplateNotFound: undefined
+[2018-08-20 12:15:36,675] ERROR in app: Exception on /undefined [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/experiment.py", line 724, in regularpage
+    return render_template(pagename)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 133, in render_template
+    return _render(ctx.app.jinja_env.get_or_select_template(template_name_or_list),
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 830, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 791, in get_template
+    return self._load_template(name, self.make_globals(globals))
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 765, in _load_template
+    template = self.loader.load(self, name, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/loaders.py", line 113, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 57, in get_source
+    return self._get_source_fast(environment, template)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 85, in _get_source_fast
+    raise TemplateNotFound(template)
+TemplateNotFound: undefined
+[2018-08-20 12:15:36,877] ERROR in app: Exception on /undefined [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/experiment.py", line 724, in regularpage
+    return render_template(pagename)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 133, in render_template
+    return _render(ctx.app.jinja_env.get_or_select_template(template_name_or_list),
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 830, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 791, in get_template
+    return self._load_template(name, self.make_globals(globals))
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 765, in _load_template
+    template = self.loader.load(self, name, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/loaders.py", line 113, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 57, in get_source
+    return self._get_source_fast(environment, template)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 85, in _get_source_fast
+    raise TemplateNotFound(template)
+TemplateNotFound: undefined
+[2018-08-20 12:15:37,086] ERROR in app: Exception on /undefined [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/experiment.py", line 724, in regularpage
+    return render_template(pagename)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 133, in render_template
+    return _render(ctx.app.jinja_env.get_or_select_template(template_name_or_list),
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 830, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 791, in get_template
+    return self._load_template(name, self.make_globals(globals))
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 765, in _load_template
+    template = self.loader.load(self, name, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/loaders.py", line 113, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 57, in get_source
+    return self._get_source_fast(environment, template)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 85, in _get_source_fast
+    raise TemplateNotFound(template)
+TemplateNotFound: undefined
+[2018-08-20 12:15:37,296] ERROR in app: Exception on /undefined [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/experiment.py", line 724, in regularpage
+    return render_template(pagename)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 133, in render_template
+    return _render(ctx.app.jinja_env.get_or_select_template(template_name_or_list),
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 830, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 791, in get_template
+    return self._load_template(name, self.make_globals(globals))
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 765, in _load_template
+    template = self.loader.load(self, name, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/loaders.py", line 113, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 57, in get_source
+    return self._get_source_fast(environment, template)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 85, in _get_source_fast
+    raise TemplateNotFound(template)
+TemplateNotFound: undefined
+[2018-08-20 12:15:37,529] ERROR in app: Exception on /undefined [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/experiment.py", line 724, in regularpage
+    return render_template(pagename)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 133, in render_template
+    return _render(ctx.app.jinja_env.get_or_select_template(template_name_or_list),
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 830, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 791, in get_template
+    return self._load_template(name, self.make_globals(globals))
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 765, in _load_template
+    template = self.loader.load(self, name, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/loaders.py", line 113, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 57, in get_source
+    return self._get_source_fast(environment, template)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 85, in _get_source_fast
+    raise TemplateNotFound(template)
+TemplateNotFound: undefined
+[2018-08-20 12:15:37,722] ERROR in app: Exception on /undefined [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/experiment.py", line 724, in regularpage
+    return render_template(pagename)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 133, in render_template
+    return _render(ctx.app.jinja_env.get_or_select_template(template_name_or_list),
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 830, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 791, in get_template
+    return self._load_template(name, self.make_globals(globals))
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 765, in _load_template
+    template = self.loader.load(self, name, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/loaders.py", line 113, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 57, in get_source
+    return self._get_source_fast(environment, template)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 85, in _get_source_fast
+    raise TemplateNotFound(template)
+TemplateNotFound: undefined
+[2018-08-20 12:15:37,933] ERROR in app: Exception on /undefined [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/experiment.py", line 724, in regularpage
+    return render_template(pagename)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 133, in render_template
+    return _render(ctx.app.jinja_env.get_or_select_template(template_name_or_list),
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 830, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 791, in get_template
+    return self._load_template(name, self.make_globals(globals))
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 765, in _load_template
+    template = self.loader.load(self, name, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/loaders.py", line 113, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 57, in get_source
+    return self._get_source_fast(environment, template)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 85, in _get_source_fast
+    raise TemplateNotFound(template)
+TemplateNotFound: undefined
+[2018-08-20 12:15:38,144] ERROR in app: Exception on /undefined [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/experiment.py", line 724, in regularpage
+    return render_template(pagename)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 133, in render_template
+    return _render(ctx.app.jinja_env.get_or_select_template(template_name_or_list),
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 830, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 791, in get_template
+    return self._load_template(name, self.make_globals(globals))
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 765, in _load_template
+    template = self.loader.load(self, name, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/loaders.py", line 113, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 57, in get_source
+    return self._get_source_fast(environment, template)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 85, in _get_source_fast
+    raise TemplateNotFound(template)
+TemplateNotFound: undefined
+[2018-08-20 12:15:38,338] ERROR in app: Exception on /undefined [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/experiment.py", line 724, in regularpage
+    return render_template(pagename)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 133, in render_template
+    return _render(ctx.app.jinja_env.get_or_select_template(template_name_or_list),
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 830, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 791, in get_template
+    return self._load_template(name, self.make_globals(globals))
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 765, in _load_template
+    template = self.loader.load(self, name, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/loaders.py", line 113, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 57, in get_source
+    return self._get_source_fast(environment, template)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 85, in _get_source_fast
+    raise TemplateNotFound(template)
+TemplateNotFound: undefined
+[2018-08-20 12:15:38,514] ERROR in app: Exception on /undefined [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/experiment.py", line 724, in regularpage
+    return render_template(pagename)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 133, in render_template
+    return _render(ctx.app.jinja_env.get_or_select_template(template_name_or_list),
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 830, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 791, in get_template
+    return self._load_template(name, self.make_globals(globals))
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 765, in _load_template
+    template = self.loader.load(self, name, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/loaders.py", line 113, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 57, in get_source
+    return self._get_source_fast(environment, template)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 85, in _get_source_fast
+    raise TemplateNotFound(template)
+TemplateNotFound: undefined
+[2018-08-20 12:15:38,703] ERROR in app: Exception on /undefined [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/experiment.py", line 724, in regularpage
+    return render_template(pagename)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 133, in render_template
+    return _render(ctx.app.jinja_env.get_or_select_template(template_name_or_list),
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 830, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 791, in get_template
+    return self._load_template(name, self.make_globals(globals))
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 765, in _load_template
+    template = self.loader.load(self, name, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/loaders.py", line 113, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 57, in get_source
+    return self._get_source_fast(environment, template)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 85, in _get_source_fast
+    raise TemplateNotFound(template)
+TemplateNotFound: undefined
+[2018-08-20 12:15:38,898] ERROR in app: Exception on /undefined [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/experiment.py", line 724, in regularpage
+    return render_template(pagename)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 133, in render_template
+    return _render(ctx.app.jinja_env.get_or_select_template(template_name_or_list),
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 830, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 791, in get_template
+    return self._load_template(name, self.make_globals(globals))
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 765, in _load_template
+    template = self.loader.load(self, name, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/loaders.py", line 113, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 57, in get_source
+    return self._get_source_fast(environment, template)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 85, in _get_source_fast
+    raise TemplateNotFound(template)
+TemplateNotFound: undefined
+[2018-08-20 12:15:39,118] ERROR in app: Exception on /undefined [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/experiment.py", line 724, in regularpage
+    return render_template(pagename)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 133, in render_template
+    return _render(ctx.app.jinja_env.get_or_select_template(template_name_or_list),
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 830, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 791, in get_template
+    return self._load_template(name, self.make_globals(globals))
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 765, in _load_template
+    template = self.loader.load(self, name, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/loaders.py", line 113, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 57, in get_source
+    return self._get_source_fast(environment, template)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 85, in _get_source_fast
+    raise TemplateNotFound(template)
+TemplateNotFound: undefined
+[2018-08-20 12:15:39,315] ERROR in app: Exception on /undefined [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/experiment.py", line 724, in regularpage
+    return render_template(pagename)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 133, in render_template
+    return _render(ctx.app.jinja_env.get_or_select_template(template_name_or_list),
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 830, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 791, in get_template
+    return self._load_template(name, self.make_globals(globals))
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 765, in _load_template
+    template = self.loader.load(self, name, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/loaders.py", line 113, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 57, in get_source
+    return self._get_source_fast(environment, template)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 85, in _get_source_fast
+    raise TemplateNotFound(template)
+TemplateNotFound: undefined
+[2018-08-20 12:15:39,507] ERROR in app: Exception on /undefined [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/experiment.py", line 724, in regularpage
+    return render_template(pagename)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 133, in render_template
+    return _render(ctx.app.jinja_env.get_or_select_template(template_name_or_list),
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 830, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 791, in get_template
+    return self._load_template(name, self.make_globals(globals))
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 765, in _load_template
+    template = self.loader.load(self, name, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/loaders.py", line 113, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 57, in get_source
+    return self._get_source_fast(environment, template)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 85, in _get_source_fast
+    raise TemplateNotFound(template)
+TemplateNotFound: undefined
+[2018-08-20 12:15:39,706] ERROR in app: Exception on /undefined [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/experiment.py", line 724, in regularpage
+    return render_template(pagename)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 133, in render_template
+    return _render(ctx.app.jinja_env.get_or_select_template(template_name_or_list),
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 830, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 791, in get_template
+    return self._load_template(name, self.make_globals(globals))
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 765, in _load_template
+    template = self.loader.load(self, name, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/loaders.py", line 113, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 57, in get_source
+    return self._get_source_fast(environment, template)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 85, in _get_source_fast
+    raise TemplateNotFound(template)
+TemplateNotFound: undefined
+[2018-08-20 12:15:39,903] ERROR in app: Exception on /undefined [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/experiment.py", line 724, in regularpage
+    return render_template(pagename)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 133, in render_template
+    return _render(ctx.app.jinja_env.get_or_select_template(template_name_or_list),
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 830, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 791, in get_template
+    return self._load_template(name, self.make_globals(globals))
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 765, in _load_template
+    template = self.loader.load(self, name, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/loaders.py", line 113, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 57, in get_source
+    return self._get_source_fast(environment, template)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 85, in _get_source_fast
+    raise TemplateNotFound(template)
+TemplateNotFound: undefined
+[2018-08-20 12:15:40,135] ERROR in app: Exception on /undefined [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/experiment.py", line 724, in regularpage
+    return render_template(pagename)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 133, in render_template
+    return _render(ctx.app.jinja_env.get_or_select_template(template_name_or_list),
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 830, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 791, in get_template
+    return self._load_template(name, self.make_globals(globals))
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 765, in _load_template
+    template = self.loader.load(self, name, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/loaders.py", line 113, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 57, in get_source
+    return self._get_source_fast(environment, template)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 85, in _get_source_fast
+    raise TemplateNotFound(template)
+TemplateNotFound: undefined
+[2018-08-20 12:15:40,599] ERROR in app: Exception on /undefined [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/experiment.py", line 724, in regularpage
+    return render_template(pagename)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 133, in render_template
+    return _render(ctx.app.jinja_env.get_or_select_template(template_name_or_list),
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 830, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 791, in get_template
+    return self._load_template(name, self.make_globals(globals))
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 765, in _load_template
+    template = self.loader.load(self, name, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/loaders.py", line 113, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 57, in get_source
+    return self._get_source_fast(environment, template)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 85, in _get_source_fast
+    raise TemplateNotFound(template)
+TemplateNotFound: undefined
+[2018-08-20 12:15:41,501] ERROR in app: Exception on /undefined [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/experiment.py", line 724, in regularpage
+    return render_template(pagename)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 133, in render_template
+    return _render(ctx.app.jinja_env.get_or_select_template(template_name_or_list),
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 830, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 791, in get_template
+    return self._load_template(name, self.make_globals(globals))
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 765, in _load_template
+    template = self.loader.load(self, name, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/loaders.py", line 113, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 57, in get_source
+    return self._get_source_fast(environment, template)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 85, in _get_source_fast
+    raise TemplateNotFound(template)
+TemplateNotFound: undefined
+[2018-08-20 12:15:41,809] ERROR in app: Exception on /undefined [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/experiment.py", line 724, in regularpage
+    return render_template(pagename)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 133, in render_template
+    return _render(ctx.app.jinja_env.get_or_select_template(template_name_or_list),
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 830, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 791, in get_template
+    return self._load_template(name, self.make_globals(globals))
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 765, in _load_template
+    template = self.loader.load(self, name, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/loaders.py", line 113, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 57, in get_source
+    return self._get_source_fast(environment, template)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 85, in _get_source_fast
+    raise TemplateNotFound(template)
+TemplateNotFound: undefined
+[2018-08-20 12:15:42,053] ERROR in app: Exception on /undefined [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/experiment.py", line 724, in regularpage
+    return render_template(pagename)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 133, in render_template
+    return _render(ctx.app.jinja_env.get_or_select_template(template_name_or_list),
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 830, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 791, in get_template
+    return self._load_template(name, self.make_globals(globals))
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 765, in _load_template
+    template = self.loader.load(self, name, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/loaders.py", line 113, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 57, in get_source
+    return self._get_source_fast(environment, template)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 85, in _get_source_fast
+    raise TemplateNotFound(template)
+TemplateNotFound: undefined
+[2018-08-20 12:15:42,275] ERROR in app: Exception on /undefined [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/experiment.py", line 724, in regularpage
+    return render_template(pagename)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 133, in render_template
+    return _render(ctx.app.jinja_env.get_or_select_template(template_name_or_list),
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 830, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 791, in get_template
+    return self._load_template(name, self.make_globals(globals))
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 765, in _load_template
+    template = self.loader.load(self, name, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/loaders.py", line 113, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 57, in get_source
+    return self._get_source_fast(environment, template)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 85, in _get_source_fast
+    raise TemplateNotFound(template)
+TemplateNotFound: undefined
+[2018-08-20 12:15:42,460] ERROR in app: Exception on /undefined [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/experiment.py", line 724, in regularpage
+    return render_template(pagename)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 133, in render_template
+    return _render(ctx.app.jinja_env.get_or_select_template(template_name_or_list),
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 830, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 791, in get_template
+    return self._load_template(name, self.make_globals(globals))
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 765, in _load_template
+    template = self.loader.load(self, name, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/loaders.py", line 113, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 57, in get_source
+    return self._get_source_fast(environment, template)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 85, in _get_source_fast
+    raise TemplateNotFound(template)
+TemplateNotFound: undefined
+[2018-08-20 12:15:42,670] ERROR in app: Exception on /undefined [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/experiment.py", line 724, in regularpage
+    return render_template(pagename)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 133, in render_template
+    return _render(ctx.app.jinja_env.get_or_select_template(template_name_or_list),
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 830, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 791, in get_template
+    return self._load_template(name, self.make_globals(globals))
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 765, in _load_template
+    template = self.loader.load(self, name, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/loaders.py", line 113, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 57, in get_source
+    return self._get_source_fast(environment, template)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 85, in _get_source_fast
+    raise TemplateNotFound(template)
+TemplateNotFound: undefined
+[2018-08-20 12:15:42,877] ERROR in app: Exception on /undefined [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/experiment.py", line 724, in regularpage
+    return render_template(pagename)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 133, in render_template
+    return _render(ctx.app.jinja_env.get_or_select_template(template_name_or_list),
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 830, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 791, in get_template
+    return self._load_template(name, self.make_globals(globals))
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 765, in _load_template
+    template = self.loader.load(self, name, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/loaders.py", line 113, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 57, in get_source
+    return self._get_source_fast(environment, template)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 85, in _get_source_fast
+    raise TemplateNotFound(template)
+TemplateNotFound: undefined
+[2018-08-20 12:15:43,071] ERROR in app: Exception on /undefined [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/experiment.py", line 724, in regularpage
+    return render_template(pagename)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 133, in render_template
+    return _render(ctx.app.jinja_env.get_or_select_template(template_name_or_list),
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 830, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 791, in get_template
+    return self._load_template(name, self.make_globals(globals))
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 765, in _load_template
+    template = self.loader.load(self, name, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/loaders.py", line 113, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 57, in get_source
+    return self._get_source_fast(environment, template)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 85, in _get_source_fast
+    raise TemplateNotFound(template)
+TemplateNotFound: undefined
+[2018-08-20 12:15:43,260] ERROR in app: Exception on /undefined [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/experiment.py", line 724, in regularpage
+    return render_template(pagename)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 133, in render_template
+    return _render(ctx.app.jinja_env.get_or_select_template(template_name_or_list),
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 830, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 791, in get_template
+    return self._load_template(name, self.make_globals(globals))
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 765, in _load_template
+    template = self.loader.load(self, name, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/loaders.py", line 113, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 57, in get_source
+    return self._get_source_fast(environment, template)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 85, in _get_source_fast
+    raise TemplateNotFound(template)
+TemplateNotFound: undefined
+[2018-08-20 12:15:43,479] ERROR in app: Exception on /undefined [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/experiment.py", line 724, in regularpage
+    return render_template(pagename)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 133, in render_template
+    return _render(ctx.app.jinja_env.get_or_select_template(template_name_or_list),
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 830, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 791, in get_template
+    return self._load_template(name, self.make_globals(globals))
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 765, in _load_template
+    template = self.loader.load(self, name, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/loaders.py", line 113, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 57, in get_source
+    return self._get_source_fast(environment, template)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 85, in _get_source_fast
+    raise TemplateNotFound(template)
+TemplateNotFound: undefined
+[2018-08-20 12:15:43,736] ERROR in app: Exception on /undefined [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/experiment.py", line 724, in regularpage
+    return render_template(pagename)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 133, in render_template
+    return _render(ctx.app.jinja_env.get_or_select_template(template_name_or_list),
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 830, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 791, in get_template
+    return self._load_template(name, self.make_globals(globals))
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 765, in _load_template
+    template = self.loader.load(self, name, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/loaders.py", line 113, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 57, in get_source
+    return self._get_source_fast(environment, template)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 85, in _get_source_fast
+    raise TemplateNotFound(template)
+TemplateNotFound: undefined
+[2018-08-20 12:15:44,145] ERROR in app: Exception on /undefined [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/experiment.py", line 724, in regularpage
+    return render_template(pagename)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 133, in render_template
+    return _render(ctx.app.jinja_env.get_or_select_template(template_name_or_list),
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 830, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 791, in get_template
+    return self._load_template(name, self.make_globals(globals))
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 765, in _load_template
+    template = self.loader.load(self, name, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/loaders.py", line 113, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 57, in get_source
+    return self._get_source_fast(environment, template)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 85, in _get_source_fast
+    raise TemplateNotFound(template)
+TemplateNotFound: undefined
+[2018-08-20 12:15:44,383] ERROR in app: Exception on /undefined [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/experiment.py", line 724, in regularpage
+    return render_template(pagename)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 133, in render_template
+    return _render(ctx.app.jinja_env.get_or_select_template(template_name_or_list),
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 830, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 791, in get_template
+    return self._load_template(name, self.make_globals(globals))
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 765, in _load_template
+    template = self.loader.load(self, name, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/loaders.py", line 113, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 57, in get_source
+    return self._get_source_fast(environment, template)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 85, in _get_source_fast
+    raise TemplateNotFound(template)
+TemplateNotFound: undefined
+[2018-08-20 12:15:44,577] ERROR in app: Exception on /undefined [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/experiment.py", line 724, in regularpage
+    return render_template(pagename)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 133, in render_template
+    return _render(ctx.app.jinja_env.get_or_select_template(template_name_or_list),
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 830, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 791, in get_template
+    return self._load_template(name, self.make_globals(globals))
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 765, in _load_template
+    template = self.loader.load(self, name, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/loaders.py", line 113, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 57, in get_source
+    return self._get_source_fast(environment, template)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 85, in _get_source_fast
+    raise TemplateNotFound(template)
+TemplateNotFound: undefined
+2018-08-21 03:52:21,990 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-21 03:52:21,991 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-21 03:52:22,024 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-21 04:00:52,363 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-21 04:00:52,554 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-21 04:00:52,567 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-21 04:02:08,236 Exception on /consent [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/user_utils.py", line 15, in new_func
+    resp = make_response(func(*args, **kwargs))
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/experiment.py", line 309, in give_consent
+    consent_string = insert_mode(consent_string, mode)
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/experiment.py", line 645, in insert_mode
+    new_html = page_html[:match.end()] + "&mode=" + mode +\
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xe2 in position 2411: ordinal not in range(128)
+2018-08-21 04:03:26,448 Exception on /consent [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/user_utils.py", line 15, in new_func
+    resp = make_response(func(*args, **kwargs))
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/experiment.py", line 309, in give_consent
+    consent_string = insert_mode(consent_string, mode)
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/experiment.py", line 645, in insert_mode
+    new_html = page_html[:match.end()] + "&mode=" + mode +\
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xe2 in position 2411: ordinal not in range(128)
+[2018-08-21 04:03:56 +0000] [4083] [CRITICAL] WORKER TIMEOUT (pid:4088)
+[2018-08-21 04:03:56 +0000] [4083] [CRITICAL] WORKER TIMEOUT (pid:4091)
+[2018-08-21 04:03:56 +0000] [4083] [CRITICAL] WORKER TIMEOUT (pid:4092)
+2018-08-21 04:03:57,122 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-21 04:03:57,124 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-21 04:03:57,127 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-21 04:07:16,360 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-21 04:07:16,498 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-21 04:07:16,547 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-21 04:31:15,158 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-21 04:31:15,171 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-21 04:31:15,215 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-21 04:31:49,819 Exception on /consent [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/user_utils.py", line 15, in new_func
+    resp = make_response(func(*args, **kwargs))
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/experiment.py", line 309, in give_consent
+    consent_string = insert_mode(consent_string, mode)
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/experiment.py", line 645, in insert_mode
+    new_html = page_html[:match.end()] + "&mode=" + mode +\
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xe2 in position 2411: ordinal not in range(128)
+2018-08-21 04:57:08,217 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-21 04:57:08,271 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-21 04:57:08,317 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-21 04:59:22,713 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-21 04:59:22,768 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-21 04:59:22,791 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-21 05:01:37,504 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-21 05:01:37,615 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-21 05:01:37,640 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-21 05:02:28,197 Exception on /consent [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/user_utils.py", line 15, in new_func
+    resp = make_response(func(*args, **kwargs))
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/experiment.py", line 309, in give_consent
+    consent_string = insert_mode(consent_string, mode)
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/experiment.py", line 645, in insert_mode
+    new_html = page_html[:match.end()] + "&mode=" + mode +\
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xe2 in position 2411: ordinal not in range(128)
+2018-08-21 05:03:44,294 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-21 05:03:44,351 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-21 05:03:44,396 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-21 05:04:15,007 Exception on /consent [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/user_utils.py", line 15, in new_func
+    resp = make_response(func(*args, **kwargs))
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/experiment.py", line 309, in give_consent
+    consent_string = insert_mode(consent_string, mode)
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/experiment.py", line 645, in insert_mode
+    new_html = page_html[:match.end()] + "&mode=" + mode +\
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xe2 in position 2411: ordinal not in range(128)
+2018-08-21 05:05:19,805 Exception on /consent [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/user_utils.py", line 15, in new_func
+    resp = make_response(func(*args, **kwargs))
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/experiment.py", line 309, in give_consent
+    consent_string = insert_mode(consent_string, mode)
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/experiment.py", line 645, in insert_mode
+    new_html = page_html[:match.end()] + "&mode=" + mode +\
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xe2 in position 2411: ordinal not in range(128)
+2018-08-21 05:06:14,306 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-21 05:06:14,358 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-21 05:06:14,403 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-21 05:06:57,955 Exception on /consent [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/user_utils.py", line 15, in new_func
+    resp = make_response(func(*args, **kwargs))
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/experiment.py", line 309, in give_consent
+    consent_string = insert_mode(consent_string, mode)
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/experiment.py", line 645, in insert_mode
+    new_html = page_html[:match.end()] + "&mode=" + mode +\
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xe2 in position 5940: ordinal not in range(128)
+2018-08-21 05:13:23,267 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-21 05:13:23,275 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-21 05:13:23,287 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-21 05:13:54,645 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-21 05:13:54,678 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-21 05:13:54,724 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-21 05:14:17,480 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-21 05:14:17,522 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-21 05:14:17,568 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-21 06:00:41,391 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-21 06:00:41,524 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-21 06:00:41,563 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-21 06:03:04,857 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-21 06:03:05,029 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-21 06:03:05,082 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-21 06:04:22,047 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-21 06:04:22,222 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-21 06:04:22,271 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+[2018-08-21 12:13:07,375] ERROR in app: Exception on /ad [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/user_utils.py", line 20, in new_func
+    resp = make_response(func(*args, **kwargs))
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/experiment.py", line 280, in advertisement
+    filter(Participant.workerid == worker_id).\
+  File "/usr/local/lib/python2.7/dist-packages/sqlalchemy/orm/query.py", line 2535, in count
+    return self.from_self(col).scalar()
+  File "/usr/local/lib/python2.7/dist-packages/sqlalchemy/orm/query.py", line 2341, in scalar
+    ret = self.one()
+  File "/usr/local/lib/python2.7/dist-packages/sqlalchemy/orm/query.py", line 2310, in one
+    ret = list(self)
+  File "/usr/local/lib/python2.7/dist-packages/sqlalchemy/orm/query.py", line 2353, in __iter__
+    return self._execute_and_instances(context)
+  File "/usr/local/lib/python2.7/dist-packages/sqlalchemy/orm/query.py", line 2368, in _execute_and_instances
+    result = conn.execute(querycontext.statement, self._params)
+  File "/usr/local/lib/python2.7/dist-packages/sqlalchemy/engine/base.py", line 662, in execute
+    params)
+  File "/usr/local/lib/python2.7/dist-packages/sqlalchemy/engine/base.py", line 761, in _execute_clauseelement
+    compiled_sql, distilled_params
+  File "/usr/local/lib/python2.7/dist-packages/sqlalchemy/engine/base.py", line 874, in _execute_context
+    context)
+  File "/usr/local/lib/python2.7/dist-packages/sqlalchemy/engine/base.py", line 1024, in _handle_dbapi_exception
+    exc_info
+  File "/usr/local/lib/python2.7/dist-packages/sqlalchemy/util/compat.py", line 196, in raise_from_cause
+    reraise(type(exception), exception, tb=exc_tb)
+  File "/usr/local/lib/python2.7/dist-packages/sqlalchemy/engine/base.py", line 867, in _execute_context
+    context)
+  File "/usr/local/lib/python2.7/dist-packages/sqlalchemy/engine/default.py", line 324, in do_execute
+    cursor.execute(statement, parameters)
+OperationalError: (OperationalError) no such table: tablechairDB u'SELECT count(*) AS count_1 \nFROM (SELECT "tablechairDB".uniqueid AS "tablechairDB_uniqueid", "tablechairDB".assignmentid AS "tablechairDB_assignmentid", "tablechairDB".workerid AS "tablechairDB_workerid", "tablechairDB".hitid AS "tablechairDB_hitid", "tablechairDB".ipaddress AS "tablechairDB_ipaddress", "tablechairDB".browser AS "tablechairDB_browser", "tablechairDB".platform AS "tablechairDB_platform", "tablechairDB".language AS "tablechairDB_language", "tablechairDB".cond AS "tablechairDB_cond", "tablechairDB".counterbalance AS "tablechairDB_counterbalance", "tablechairDB".codeversion AS "tablechairDB_codeversion", "tablechairDB".beginhit AS "tablechairDB_beginhit", "tablechairDB".beginexp AS "tablechairDB_beginexp", "tablechairDB".endhit AS "tablechairDB_endhit", "tablechairDB".bonus AS "tablechairDB_bonus", "tablechairDB".status AS "tablechairDB_status", "tablechairDB".mode AS "tablechairDB_mode", "tablechairDB".datastring AS "tablechairDB_datastring" \nFROM "tablechairDB" \nWHERE "tablechairDB".assignmentid != ? AND "tablechairDB".workerid = ?) AS anon_1' (u'debugDEMUS5', u'debugIP41IV')
+2018-08-21 16:28:22,482 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-21 16:28:22,669 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-21 16:28:22,687 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-21 16:28:33,322 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-21 16:28:33,512 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-21 16:28:33,541 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-21 16:32:29,682 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-21 16:32:29,693 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-21 16:32:29,701 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-21 16:33:34,263 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-21 16:33:34,424 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-21 16:33:34,470 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+[2018-08-21 16:55:19 +0000] [7153] [CRITICAL] WORKER TIMEOUT (pid:7161)
+2018-08-21 16:55:19,509 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+[2018-08-21 17:02:20 +0000] [7153] [CRITICAL] WORKER TIMEOUT (pid:7158)
+2018-08-21 17:02:20,691 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+[2018-08-21 17:02:23 +0000] [7153] [CRITICAL] WORKER TIMEOUT (pid:7162)
+2018-08-21 17:02:24,059 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-21 19:28:42,964 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-21 19:28:43,108 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-21 19:28:43,118 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-21 20:06:58,532 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-21 20:06:58,710 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-21 20:06:58,724 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-21 20:07:10,294 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-21 20:07:10,491 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-21 20:07:10,525 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-22 20:42:14,606 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-22 20:42:14,625 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-22 20:42:14,660 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-22 20:42:35,812 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-22 20:42:36,024 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-22 20:42:36,073 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-22 20:45:43,095 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-22 20:45:43,252 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-22 20:45:43,267 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-22 21:09:12,195 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-22 21:09:12,328 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-22 21:09:12,341 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-22 21:13:49,537 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-22 21:13:49,600 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-22 21:13:49,630 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-22 21:15:55,666 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-22 21:15:55,768 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-22 21:15:55,793 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-22 21:18:46,609 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-22 21:18:46,713 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-22 21:18:46,759 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2018-08-23 02:01:28,959 Exception on /exp [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1379, in handle_user_exception
+    return handler(e)
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/experiment.py", line 103, in handle_exp_error
+    "%s (%s) %s", e.value, e.errornum, str(dict(request.args)))
+NameError: global name 'e' is not defined
+2018-08-23 02:04:07,959 Exception on /exp [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1379, in handle_user_exception
+    return handler(e)
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/experiment.py", line 103, in handle_exp_error
+    "%s (%s) %s", e.value, e.errornum, str(dict(request.args)))
+NameError: global name 'e' is not defined
+[2019-01-05 15:19:39,468] ERROR in app: Exception on /ad [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/user_utils.py", line 20, in new_func
+    resp = make_response(func(*args, **kwargs))
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/experiment.py", line 280, in advertisement
+    filter(Participant.workerid == worker_id).\
+  File "/usr/local/lib/python2.7/dist-packages/sqlalchemy/orm/query.py", line 2535, in count
+    return self.from_self(col).scalar()
+  File "/usr/local/lib/python2.7/dist-packages/sqlalchemy/orm/query.py", line 2341, in scalar
+    ret = self.one()
+  File "/usr/local/lib/python2.7/dist-packages/sqlalchemy/orm/query.py", line 2310, in one
+    ret = list(self)
+  File "/usr/local/lib/python2.7/dist-packages/sqlalchemy/orm/query.py", line 2353, in __iter__
+    return self._execute_and_instances(context)
+  File "/usr/local/lib/python2.7/dist-packages/sqlalchemy/orm/query.py", line 2368, in _execute_and_instances
+    result = conn.execute(querycontext.statement, self._params)
+  File "/usr/local/lib/python2.7/dist-packages/sqlalchemy/engine/base.py", line 662, in execute
+    params)
+  File "/usr/local/lib/python2.7/dist-packages/sqlalchemy/engine/base.py", line 761, in _execute_clauseelement
+    compiled_sql, distilled_params
+  File "/usr/local/lib/python2.7/dist-packages/sqlalchemy/engine/base.py", line 874, in _execute_context
+    context)
+  File "/usr/local/lib/python2.7/dist-packages/sqlalchemy/engine/base.py", line 1024, in _handle_dbapi_exception
+    exc_info
+  File "/usr/local/lib/python2.7/dist-packages/sqlalchemy/util/compat.py", line 196, in raise_from_cause
+    reraise(type(exception), exception, tb=exc_tb)
+  File "/usr/local/lib/python2.7/dist-packages/sqlalchemy/engine/base.py", line 867, in _execute_context
+    context)
+  File "/usr/local/lib/python2.7/dist-packages/sqlalchemy/engine/default.py", line 324, in do_execute
+    cursor.execute(statement, parameters)
+OperationalError: (OperationalError) no such column: expF.mode u'SELECT count(*) AS count_1 \nFROM (SELECT "expF".uniqueid AS "expF_uniqueid", "expF".assignmentid AS "expF_assignmentid", "expF".workerid AS "expF_workerid", "expF".hitid AS "expF_hitid", "expF".ipaddress AS "expF_ipaddress", "expF".browser AS "expF_browser", "expF".platform AS "expF_platform", "expF".language AS "expF_language", "expF".cond AS "expF_cond", "expF".counterbalance AS "expF_counterbalance", "expF".codeversion AS "expF_codeversion", "expF".beginhit AS "expF_beginhit", "expF".beginexp AS "expF_beginexp", "expF".endhit AS "expF_endhit", "expF".bonus AS "expF_bonus", "expF".status AS "expF_status", "expF".mode AS "expF_mode", "expF".datastring AS "expF_datastring" \nFROM "expF" \nWHERE "expF".assignmentid != ? AND "expF".workerid = ?) AS anon_1' (u'debug54HHGP', u'debugUODL70')
+2019-07-05 17:32:50,652 Exception on /ad [GET]
+Traceback (most recent call last):
+  File "/home/mengmi/.local/lib/python2.7/site-packages/flask/app.py", line 2311, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/mengmi/.local/lib/python2.7/site-packages/flask/app.py", line 1834, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/mengmi/.local/lib/python2.7/site-packages/flask/app.py", line 1737, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/mengmi/.local/lib/python2.7/site-packages/flask/app.py", line 1832, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/mengmi/.local/lib/python2.7/site-packages/flask/app.py", line 1818, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/mengmi/.local/lib/python2.7/site-packages/psiturk/user_utils.py", line 23, in new_func
+    resp = make_response(func(*args, **kwargs))
+  File "/home/mengmi/.local/lib/python2.7/site-packages/psiturk/experiment.py", line 286, in advertisement
+    filter(Participant.workerid == worker_id).\
+  File "/home/mengmi/.local/lib/python2.7/site-packages/sqlalchemy/orm/query.py", line 3568, in count
+    return self.from_self(col).scalar()
+  File "/home/mengmi/.local/lib/python2.7/site-packages/sqlalchemy/orm/query.py", line 3312, in scalar
+    ret = self.one()
+  File "/home/mengmi/.local/lib/python2.7/site-packages/sqlalchemy/orm/query.py", line 3282, in one
+    ret = self.one_or_none()
+  File "/home/mengmi/.local/lib/python2.7/site-packages/sqlalchemy/orm/query.py", line 3251, in one_or_none
+    ret = list(self)
+  File "/home/mengmi/.local/lib/python2.7/site-packages/sqlalchemy/orm/query.py", line 3324, in __iter__
+    return self._execute_and_instances(context)
+  File "/home/mengmi/.local/lib/python2.7/site-packages/sqlalchemy/orm/query.py", line 3349, in _execute_and_instances
+    result = conn.execute(querycontext.statement, self._params)
+  File "/home/mengmi/.local/lib/python2.7/site-packages/sqlalchemy/engine/base.py", line 988, in execute
+    return meth(self, multiparams, params)
+  File "/home/mengmi/.local/lib/python2.7/site-packages/sqlalchemy/sql/elements.py", line 287, in _execute_on_connection
+    return connection._execute_clauseelement(self, multiparams, params)
+  File "/home/mengmi/.local/lib/python2.7/site-packages/sqlalchemy/engine/base.py", line 1107, in _execute_clauseelement
+    distilled_params,
+  File "/home/mengmi/.local/lib/python2.7/site-packages/sqlalchemy/engine/base.py", line 1248, in _execute_context
+    e, statement, parameters, cursor, context
+  File "/home/mengmi/.local/lib/python2.7/site-packages/sqlalchemy/engine/base.py", line 1466, in _handle_dbapi_exception
+    util.raise_from_cause(sqlalchemy_exception, exc_info)
+  File "/home/mengmi/.local/lib/python2.7/site-packages/sqlalchemy/util/compat.py", line 399, in raise_from_cause
+    reraise(type(exception), exception, tb=exc_tb, cause=cause)
+  File "/home/mengmi/.local/lib/python2.7/site-packages/sqlalchemy/engine/base.py", line 1244, in _execute_context
+    cursor, statement, parameters, context
+  File "/home/mengmi/.local/lib/python2.7/site-packages/sqlalchemy/engine/default.py", line 550, in do_execute
+    cursor.execute(statement, parameters)
+OperationalError: (sqlite3.OperationalError) no such column: expF.mode
+[SQL: SELECT count(*) AS count_1 
+FROM (SELECT "expF".uniqueid AS "expF_uniqueid", "expF".assignmentid AS "expF_assignmentid", "expF".workerid AS "expF_workerid", "expF".hitid AS "expF_hitid", "expF".ipaddress AS "expF_ipaddress", "expF".browser AS "expF_browser", "expF".platform AS "expF_platform", "expF".language AS "expF_language", "expF".cond AS "expF_cond", "expF".counterbalance AS "expF_counterbalance", "expF".codeversion AS "expF_codeversion", "expF".beginhit AS "expF_beginhit", "expF".beginexp AS "expF_beginexp", "expF".endhit AS "expF_endhit", "expF".bonus AS "expF_bonus", "expF".status AS "expF_status", "expF".mode AS "expF_mode", "expF".datastring AS "expF_datastring" 
+FROM "expF" 
+WHERE "expF".assignmentid != ? AND "expF".workerid = ?) AS anon_1]
+[parameters: (u'debugK07536', u'debugRSALCW')]
+(Background on this error at: http://sqlalche.me/e/e3q8)
+2019-07-18 13:50:18,547 hit_not_registered_with_ad_server (1018) {'assignmentId': [u'debugXLJF6L'], 'workerId': [u'debugNKRIH6'], 'hitId': [u'debugLN2R53'], 'mode': [u'sandbox']}
+2019-07-18 13:50:18,726 hit_not_registered_with_ad_server (1018) {'assignmentId': [u'debugXLJF6L'], 'workerId': [u'debugNKRIH6'], 'hitId': [u'debugLN2R53'], 'mode': [u'sandbox']}
+2019-07-20 02:49:37,653 hit_not_registered_with_ad_server (1018) {'assignmentId': [u'37C0GNLMHIVWWTIH3BGIXWK2DO4D6I'], 'workerId': [u'AFQ9W6WA8O9EH'], 'hitId': [u'3DWNFENNE5NTY8G14H4CECZFKHMJ4S'], 'mode': [u'live']}
+2019-07-20 03:09:59,489 hit_not_registered_with_ad_server (1018) {'assignmentId': [u'39O5D9O87WKNUIPLKDN96NQ0IXQ3C2'], 'workerId': [u'A1TTCTICE84K1W'], 'hitId': [u'3DWNFENNE5NTY8G14H4CECZFKHMJ4S'], 'mode': [u'live']}
+2019-07-20 03:11:52,121 DB error: Unique user not found.
+2019-07-20 03:11:52,127 tried_to_quit (1011) {}
+2019-07-20 03:11:52,122 Exception on /sync/A3U6IA3JUSFZ2M:34QN5IT0T2JP1N0BKEPL23WAOGD08X [PUT]
+Traceback (most recent call last):
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/flask/app.py", line 2311, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/flask/app.py", line 1834, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/flask/app.py", line 1737, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/flask/app.py", line 1832, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/flask/app.py", line 1818, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/psiturk/experiment.py", line 588, in update
+    'ascii', 'xmlcharrefreplace'
+UnboundLocalError: local variable 'user' referenced before assignment
+2019-07-20 03:29:02,846 hit_not_registered_with_ad_server (1018) {'assignmentId': [u'3QXNC7EIPLNPFSJLP6VZ2ZRL90C09W'], 'workerId': [u'A3RX9SBS3Q6OX1'], 'hitId': [u'367O8HRHKI0MXBZRRBDQ6DQ2G0Z4ST'], 'mode': [u'live']}
+2019-07-20 04:06:09,008 already_started_exp (1008) {'assignmentId': [u'3LJ7UR74RK5R3I5G9H16W3CIV134N9'], 'workerId': [u'AZT5YW1NYHMY'], 'hitId': [u'3DWNFENNE5NTY8G14H4CECZFKHMJ4S'], 'mode': [u'live']}
+2019-07-20 04:06:33,065 already_started_exp (1008) {'assignmentId': [u'3LJ7UR74RK5R3I5G9H16W3CIV134N9'], 'workerId': [u'AZT5YW1NYHMY'], 'hitId': [u'3DWNFENNE5NTY8G14H4CECZFKHMJ4S'], 'mode': [u'live']}
+2019-07-20 04:24:25,497 hit_not_registered_with_ad_server (1018) {'assignmentId': [u'3HL8HNGX48TGCWYBSOEK56EPF2V9F3'], 'workerId': [u'A2DOMBSKO75VV7'], 'hitId': [u'3DWNFENNE5NTY8G14H4CECZFKHMJ4S'], 'mode': [u'live']}
+2019-07-20 05:34:17,202 already_started_exp (1008) {'assignmentId': [u'3TMFV4NEPB6I9D1WDLI69Y5EQZKW8G'], 'workerId': [u'A3VX4J1DULPM4C'], 'hitId': [u'3DWNFENNE5NTY8G14H4CECZFKHMJ4S'], 'mode': [u'live']}
+2019-07-20 05:34:23,142 already_started_exp (1008) {'assignmentId': [u'3TMFV4NEPB6I9D1WDLI69Y5EQZKW8G'], 'workerId': [u'A3VX4J1DULPM4C'], 'hitId': [u'3DWNFENNE5NTY8G14H4CECZFKHMJ4S'], 'mode': [u'live']}
+2019-07-20 05:34:24,644 already_started_exp (1008) {'assignmentId': [u'3TMFV4NEPB6I9D1WDLI69Y5EQZKW8G'], 'workerId': [u'A3VX4J1DULPM4C'], 'hitId': [u'3DWNFENNE5NTY8G14H4CECZFKHMJ4S'], 'mode': [u'live']}
+2019-07-20 05:34:26,154 already_started_exp (1008) {'assignmentId': [u'3TMFV4NEPB6I9D1WDLI69Y5EQZKW8G'], 'workerId': [u'A3VX4J1DULPM4C'], 'hitId': [u'3DWNFENNE5NTY8G14H4CECZFKHMJ4S'], 'mode': [u'live']}
+2019-07-20 05:34:28,836 already_started_exp (1008) {'assignmentId': [u'3TMFV4NEPB6I9D1WDLI69Y5EQZKW8G'], 'workerId': [u'A3VX4J1DULPM4C'], 'hitId': [u'3DWNFENNE5NTY8G14H4CECZFKHMJ4S'], 'mode': [u'live']}
+2019-07-20 06:12:01,050 hit_not_registered_with_ad_server (1018) {'assignmentId': [u'3Y9N9SS8L13XZAVZK9IKQT8I3X2D3C'], 'workerId': [u'AT6LDQNLKTUSE'], 'hitId': [u'3DWNFENNE5NTY8G14H4CECZFKHMJ4S'], 'mode': [u'live']}
+2019-07-20 06:30:35,330 already_started_exp (1008) {'assignmentId': [u'3U8YCDAGXS8V7R07686LOUHAJ00Q0S'], 'workerId': [u'A1WYZXOTTP17YO'], 'hitId': [u'3DWNFENNE5NTY8G14H4CECZFKHMJ4S'], 'mode': [u'live']}
+2019-07-20 06:30:47,546 already_started_exp (1008) {'assignmentId': [u'3U8YCDAGXS8V7R07686LOUHAJ00Q0S'], 'workerId': [u'A1WYZXOTTP17YO'], 'hitId': [u'3DWNFENNE5NTY8G14H4CECZFKHMJ4S'], 'mode': [u'live']}
+[2019-07-20 06:47:12 +0000] [20929] [CRITICAL] WORKER TIMEOUT (pid:20935)
+2019-07-20 06:49:16,470 already_started_exp (1008) {'assignmentId': [u'354P56DE9NVL2IF4JBGZY96Y92Y7S5'], 'workerId': [u'A2KBLMIKDBHIJJ'], 'hitId': [u'3DWNFENNE5NTY8G14H4CECZFKHMJ4S'], 'mode': [u'live']}
+[2019-07-20 06:49:47 +0000] [20929] [CRITICAL] WORKER TIMEOUT (pid:21462)
+2019-07-20 07:50:42,089 hit_not_registered_with_ad_server (1018) {'assignmentId': [u'3ZAZR5XV04AOFBWE5KIIAOVFXSKZCQ'], 'workerId': [u'AY5OS6NZWVX22'], 'hitId': [u'3DWNFENNE5NTY8G14H4CECZFKHMJ4S'], 'mode': [u'live']}
+2019-07-20 08:51:07,797 hit_not_registered_with_ad_server (1018) {'assignmentId': [u'34HJIJKLP8O4BNEPB8NX6K6VH5E4V1'], 'workerId': [u'A3A3MIXR5SLD65'], 'hitId': [u'3DWNFENNE5NTY8G14H4CECZFKHMJ4S'], 'mode': [u'live']}
+2019-07-20 08:51:22,951 hit_not_registered_with_ad_server (1018) {'assignmentId': [u'34HJIJKLP8O4BNEPB8NX6K6VH5E4V1'], 'workerId': [u'A3A3MIXR5SLD65'], 'hitId': [u'3DWNFENNE5NTY8G14H4CECZFKHMJ4S'], 'mode': [u'live']}
+[2019-07-20 09:42:11 +0000] [20929] [CRITICAL] WORKER TIMEOUT (pid:20933)
+2019-07-20 11:00:01,039 hit_not_registered_with_ad_server (1018) {'assignmentId': [u'33TIN5LC072MCNF6XE68URL5LE39YK'], 'workerId': [u'A3VRDQJNM1IC0E'], 'hitId': [u'3DWNFENNE5NTY8G14H4CECZFKHMJ4S'], 'mode': [u'live']}
+2019-07-20 15:36:50,876 hit_not_registered_with_ad_server (1018) {'assignmentId': [u'317HQ483IAKLBP4VU63AQ4M10LEING'], 'workerId': [u'A2UMVPFBDCK5GK'], 'hitId': [u'3DWNFENNE5NTY8G14H4CECZFKHMJ4S'], 'mode': [u'live']}
+2019-07-20 16:25:08,281 hit_not_registered_with_ad_server (1018) {'assignmentId': [u'3U0SRXB7CGXY4O7EKTXJ4WNSNHYRNU'], 'workerId': [u'A20N1NK5X5S88F'], 'hitId': [u'3DWNFENNE5NTY8G14H4CECZFKHMJ4S'], 'mode': [u'live']}
+2019-07-30 15:25:17,723 hit_not_registered_with_ad_server (1018) {'assignmentId': [u'3MMN5BL1W0PC6N9FL8BIFKUQZNG3MW'], 'workerId': [u'AVPW7AXI9AFSM'], 'hitId': [u'3YOAVL4CA02V06T9A91U88MFXNKZ40'], 'mode': [u'live']}
+2019-07-30 16:15:56,095 already_started_exp (1008) {'assignmentId': [u'3NG53N1RLW44SNCYP5Y6N5WWKEJ8PP'], 'workerId': [u'A1JJYY622DGE5L'], 'hitId': [u'3YOAVL4CA02V06T9A91U88MFXNKZ40'], 'mode': [u'live']}
+2019-07-30 16:23:32,123 hit_not_registered_with_ad_server (1018) {'assignmentId': [u'3NG53N1RLW44SNCYP5Y6N5WWKEJ8PP'], 'workerId': [u'A2QFZ2524HID2B'], 'hitId': [u'3YOAVL4CA02V06T9A91U88MFXNKZ40'], 'mode': [u'live']}
+2019-07-30 16:40:45,331 hit_not_registered_with_ad_server (1018) {'assignmentId': [u'3AWETUDC93DRVXQHL08ZRSSOX9VIZS'], 'workerId': [u'A29AKJXQ248KNK'], 'hitId': [u'3YOAVL4CA02V06T9A91U88MFXNKZ40'], 'mode': [u'live']}
+2019-07-30 16:41:14,196 already_started_exp (1008) {'assignmentId': [u'3S96KQ6I9NPE1A1WNUI6E7BUK81DT5'], 'workerId': [u'A2ZFU8SZW3KF0M'], 'hitId': [u'3YOAVL4CA02V06T9A91U88MFXNKZ40'], 'mode': [u'live']}
+2019-07-30 17:05:43,366 hit_not_registered_with_ad_server (1018) {'assignmentId': [u'33F859I567YVH4CH94AB5YK66TUBHM'], 'workerId': [u'A3MYPYBVHX7FQ2'], 'hitId': [u'3YOAVL4CA02V06T9A91U88MFXNKZ40'], 'mode': [u'live']}
+2019-07-30 17:20:02,795 already_started_exp (1008) {'assignmentId': [u'37QW5D2ZRH715FSQHM20IA177ZBS8C'], 'workerId': [u'A1ML3WQLXSNP04'], 'hitId': [u'3YOAVL4CA02V06T9A91U88MFXNKZ40'], 'mode': [u'live']}
+[2019-07-30 18:44:54 +0000] [23315] [CRITICAL] WORKER TIMEOUT (pid:23321)
+[2019-07-30 19:02:51 +0000] [23319] [ERROR] Socket error processing request.
+Traceback (most recent call last):
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = six.next(parser)
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/parser.py", line 41, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.req_count)
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/message.py", line 181, in __init__
+    super(Request, self).__init__(cfg, unreader)
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/message.py", line 54, in __init__
+    unused = self.parse(self.unreader)
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/message.py", line 230, in parse
+    self.headers = self.parse_headers(data[:idx])
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/message.py", line 74, in parse_headers
+    remote_addr = self.unreader.sock.getpeername()
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 107] Transport endpoint is not connected
+[2019-07-30 19:02:55 +0000] [23315] [CRITICAL] WORKER TIMEOUT (pid:23652)
+[2019-07-30 19:02:57 +0000] [23315] [CRITICAL] WORKER TIMEOUT (pid:23320)
+[2019-07-30 19:03:22 +0000] [23315] [CRITICAL] WORKER TIMEOUT (pid:23319)
+2019-07-30 19:20:11,507 already_started_exp (1008) {'assignmentId': [u'358010RM5FE7C8A2JPJX9W27XCDXVT'], 'workerId': [u'A1IEAOCJNSPVRX'], 'hitId': [u'3YOAVL4CA02V06T9A91U88MFXNKZ40'], 'mode': [u'live']}
+2019-07-30 19:59:08,591 hit_not_registered_with_ad_server (1018) {'assignmentId': [u'3CTOC39K38B46Y4HKN1GC9EP0YU7JU'], 'workerId': [u'A3FUWP6N9U7G2E'], 'hitId': [u'3YOAVL4CA02V06T9A91U88MFXNKZ40'], 'mode': [u'live']}
+2019-07-30 20:49:19,165 hit_not_registered_with_ad_server (1018) {'assignmentId': [u'38JBBYETQPVZCV064OSICHHN4NI4EU'], 'workerId': [u'AWZPYE91AF7KU'], 'hitId': [u'3YOAVL4CA02V06T9A91U88MFXNKZ40'], 'mode': [u'live']}
+2019-07-30 22:08:06,214 already_started_exp (1008) {'assignmentId': [u'3TPZPLC3M1XIRQ6SDO3AWOOL4SR3PS'], 'workerId': [u'A3ROADR7T6811'], 'hitId': [u'3YOAVL4CA02V06T9A91U88MFXNKZ40'], 'mode': [u'live']}
+2019-07-31 05:40:48,868 hit_not_registered_with_ad_server (1018) {'assignmentId': [u'3HMVI3QICKDGQ1KEH7LALM20AI51YR'], 'workerId': [u'A1XBWSV6TWJUU8'], 'hitId': [u'3P4ZBJFX2VO14RLTJ3D608PO5DOFWH'], 'mode': [u'live']}
+2019-07-31 06:05:10,594 hit_not_registered_with_ad_server (1018) {'assignmentId': [u'3U0SRXB7CEQA77FH8ZREAXM6AWURNM'], 'workerId': [u'ATTGD1M94GFR'], 'hitId': [u'3P4ZBJFX2VO14RLTJ3D608PO5DOFWH'], 'mode': [u'live']}
+[2019-07-31 07:02:19 +0000] [23315] [CRITICAL] WORKER TIMEOUT (pid:23758)
+2019-07-31 08:41:00,427 already_started_exp (1008) {'assignmentId': [u'3LPW2N6LKUNYXA1S8TQXLR94QAYU53'], 'workerId': [u'AI1724S19KN4E'], 'hitId': [u'3P4ZBJFX2VO14RLTJ3D608PO5DOFWH'], 'mode': [u'live']}
+2019-07-31 09:03:52,634 hit_not_registered_with_ad_server (1018) {'assignmentId': [u'39ASUFLU6YSQAXOGOZUN9SELXLXEXZ'], 'workerId': [u'AZOL9C4LAWBCJ'], 'hitId': [u'3P4ZBJFX2VO14RLTJ3D608PO5DOFWH'], 'mode': [u'live']}
+2019-07-31 09:45:08,641 hit_not_registered_with_ad_server (1018) {'assignmentId': [u'3WEV0KO0ONDDMAOHYUDG42F8IVYSDI'], 'workerId': [u'A1JL8N1PWIFDH2'], 'hitId': [u'3P4ZBJFX2VO14RLTJ3D608PO5DOFWH'], 'mode': [u'live']}
+2019-07-31 10:19:16,092 already_started_exp (1008) {'assignmentId': [u'3WEV0KO0ONDDMAOHYUDG42F8IVYSDI'], 'workerId': [u'A31UT0B85K82RA'], 'hitId': [u'3P4ZBJFX2VO14RLTJ3D608PO5DOFWH'], 'mode': [u'live']}
+2019-07-31 10:21:35,698 already_started_exp (1008) {'assignmentId': [u'3WEV0KO0ONDDMAOHYUDG42F8IVYSDI'], 'workerId': [u'A31UT0B85K82RA'], 'hitId': [u'3P4ZBJFX2VO14RLTJ3D608PO5DOFWH'], 'mode': [u'live']}
+2019-07-31 10:29:13,335 hit_not_registered_with_ad_server (1018) {'assignmentId': [u'3WEV0KO0ONDDMAOHYUDG42F8IVYSDI'], 'workerId': [u'A245CIYS63PTF2'], 'hitId': [u'3P4ZBJFX2VO14RLTJ3D608PO5DOFWH'], 'mode': [u'live']}
+[2019-07-31 13:30:55 +0000] [23315] [CRITICAL] WORKER TIMEOUT (pid:23762)
+2019-07-31 13:33:56,315 hit_not_registered_with_ad_server (1018) {'assignmentId': [u'33FOTY3KEN63NYJ9LF3LOVAH7V11CZ'], 'workerId': [u'A1YUK67SL5TWT0'], 'hitId': [u'3P4ZBJFX2VO14RLTJ3D608PO5DOFWH'], 'mode': [u'live']}
+2019-08-01 17:18:47,220 hit_not_registered_with_ad_server (1018) {'assignmentId': [u'3RU7GD8VPPEMB7R7334B4WWXXNCSPQ'], 'workerId': [u'A1YSYI926BBOHW'], 'hitId': [u'3FVBZG9CLJZSAXBELM8LWYSXKOX0HB'], 'mode': [u'live']}
+2019-08-01 17:21:38,596 already_started_exp (1008) {'assignmentId': [u'3TY7ZAOG5G5LZ7AFH9GJY94F8LO0KB'], 'workerId': [u'A34UER5ZQ5APMB'], 'hitId': [u'3FVBZG9CLJZSAXBELM8LWYSXKOX0HB'], 'mode': [u'live']}
+2019-08-01 17:51:13,567 already_did_exp_hit (1010) {'assignmentId': [u'3A4NIXBJ77KTMRZ4REFIB6O70OTLM9'], 'workerId': [u'A245CIYS63PTF2'], 'hitId': [u'3FVBZG9CLJZSAXBELM8LWYSXKOX0HB'], 'mode': [u'live']}
+2019-08-01 17:52:01,983 already_started_exp (1008) {'assignmentId': [u'3H0W84IWBLN6D124F0OVKASXXEUREJ'], 'workerId': [u'AHBWX3WYMAB0E'], 'hitId': [u'3FVBZG9CLJZSAXBELM8LWYSXKOX0HB'], 'mode': [u'live']}
+2019-08-01 18:11:27,838 already_started_exp (1008) {'assignmentId': [u'33LKR6A5KF5K9FLK71YBD5ALWQKT1C'], 'workerId': [u'A1RKHN69EI6ZPK'], 'hitId': [u'3FVBZG9CLJZSAXBELM8LWYSXKOX0HB'], 'mode': [u'live']}
+[2019-08-01 18:23:29 +0000] [30538] [CRITICAL] WORKER TIMEOUT (pid:30542)
+2019-08-01 18:57:17,972 hit_not_registered_with_ad_server (1018) {'assignmentId': [u'3ND9UOO81LNPR3TIVGL5K4QYYQELW7'], 'workerId': [u'A2JTSH1VPJQ8FR'], 'hitId': [u'3FVBZG9CLJZSAXBELM8LWYSXKOX0HB'], 'mode': [u'live']}
+[2019-08-01 19:02:46 +0000] [30538] [CRITICAL] WORKER TIMEOUT (pid:30611)
+2019-08-01 19:03:08,051 already_started_exp (1008) {'assignmentId': [u'3SLE99ER0OYH8PCBFQGI55OB3Y6BZ2'], 'workerId': [u'A2UUKFTD0VUX2S'], 'hitId': [u'3FVBZG9CLJZSAXBELM8LWYSXKOX0HB'], 'mode': [u'live']}
+2019-08-01 19:24:45,359 hit_not_registered_with_ad_server (1018) {'assignmentId': [u'3K3R2QNK8COHYX34BJ3EX7E6DGY9UB'], 'workerId': [u'A38ESUTSVGTJV1'], 'hitId': [u'3FVBZG9CLJZSAXBELM8LWYSXKOX0HB'], 'mode': [u'live']}
+2019-08-01 19:37:09,364 already_started_exp (1008) {'assignmentId': [u'3H8DHMCCWAWFYRB9TL4EDGOY2AFKD6'], 'workerId': [u'AZNY7CZTSQRXS'], 'hitId': [u'3FVBZG9CLJZSAXBELM8LWYSXKOX0HB'], 'mode': [u'live']}
+2019-08-01 19:38:54,398 hit_not_registered_with_ad_server (1018) {'assignmentId': [u'3L0KT67Y8F1GKLJ8UQ0UHNP91SUYS5'], 'workerId': [u'A3BJCFSYT1GPJ3'], 'hitId': [u'3FVBZG9CLJZSAXBELM8LWYSXKOX0HB'], 'mode': [u'live']}
+[2019-08-01 19:41:06 +0000] [30538] [CRITICAL] WORKER TIMEOUT (pid:30645)
+[2019-08-01 19:41:29 +0000] [30538] [CRITICAL] WORKER TIMEOUT (pid:30544)
+[2019-08-01 19:41:55 +0000] [30694] [ERROR] Socket error processing request.
+Traceback (most recent call last):
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = six.next(parser)
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/parser.py", line 41, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.req_count)
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/message.py", line 181, in __init__
+    super(Request, self).__init__(cfg, unreader)
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/message.py", line 54, in __init__
+    unused = self.parse(self.unreader)
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/message.py", line 230, in parse
+    self.headers = self.parse_headers(data[:idx])
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/message.py", line 74, in parse_headers
+    remote_addr = self.unreader.sock.getpeername()
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 107] Transport endpoint is not connected
+[2019-08-01 19:41:56 +0000] [30538] [CRITICAL] WORKER TIMEOUT (pid:30543)
+[2019-08-01 19:42:05 +0000] [30538] [CRITICAL] WORKER TIMEOUT (pid:30702)
+[2019-08-01 19:52:45 +0000] [30724] [ERROR] Socket error processing request.
+Traceback (most recent call last):
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = six.next(parser)
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/parser.py", line 41, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.req_count)
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/message.py", line 181, in __init__
+    super(Request, self).__init__(cfg, unreader)
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/message.py", line 54, in __init__
+    unused = self.parse(self.unreader)
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/message.py", line 230, in parse
+    self.headers = self.parse_headers(data[:idx])
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/message.py", line 74, in parse_headers
+    remote_addr = self.unreader.sock.getpeername()
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 107] Transport endpoint is not connected
+[2019-08-01 19:52:56 +0000] [30538] [CRITICAL] WORKER TIMEOUT (pid:30694)
+2019-08-01 19:54:58,196 hit_not_registered_with_ad_server (1018) {'assignmentId': [u'39L1G8WVWRCFAYNQSMSKVS6N2RT13P'], 'workerId': [u'A1I3QYJJU5ACFR'], 'hitId': [u'3FVBZG9CLJZSAXBELM8LWYSXKOX0HB'], 'mode': [u'live']}
+[2019-08-01 19:55:14 +0000] [30538] [CRITICAL] WORKER TIMEOUT (pid:30724)
+[2019-08-01 19:55:45 +0000] [30538] [CRITICAL] WORKER TIMEOUT (pid:30716)
+[2019-08-01 20:10:55 +0000] [30538] [CRITICAL] WORKER TIMEOUT (pid:30827)
+[2019-08-01 20:11:23 +0000] [30538] [CRITICAL] WORKER TIMEOUT (pid:30831)
+[2019-08-01 20:11:43 +0000] [30538] [CRITICAL] WORKER TIMEOUT (pid:30812)
+[2019-08-01 20:12:05 +0000] [30538] [CRITICAL] WORKER TIMEOUT (pid:30837)
+2019-08-01 20:12:23,643 already_started_exp (1008) {'assignmentId': [u'3OE22WJIGJ9NQWKQSLE0J24VNG5QUH'], 'workerId': [u'AAFDTSRFE14R3'], 'hitId': [u'3FVBZG9CLJZSAXBELM8LWYSXKOX0HB'], 'mode': [u'live']}
+[2019-08-01 20:12:29 +0000] [30538] [CRITICAL] WORKER TIMEOUT (pid:30841)
+2019-08-01 20:12:45,590 already_started_exp (1008) {'assignmentId': [u'3OE22WJIGJ9NQWKQSLE0J24VNG5QUH'], 'workerId': [u'AAFDTSRFE14R3'], 'hitId': [u'3FVBZG9CLJZSAXBELM8LWYSXKOX0HB'], 'mode': [u'live']}
+[2019-08-01 20:12:51 +0000] [30538] [CRITICAL] WORKER TIMEOUT (pid:30849)
+[2019-08-01 20:13:16 +0000] [30538] [CRITICAL] WORKER TIMEOUT (pid:30853)
+[2019-08-01 20:31:05 +0000] [30538] [CRITICAL] WORKER TIMEOUT (pid:30857)
+2019-08-01 21:08:41,611 hit_not_registered_with_ad_server (1018) {'assignmentId': [u'3AAPLD8UCD2VDQ6Y9Q1W5SQSDG5HTQ'], 'workerId': [u'A3B43EHV3X455M'], 'hitId': [u'3FVBZG9CLJZSAXBELM8LWYSXKOX0HB'], 'mode': [u'live']}
+2019-08-01 21:15:35,763 hit_not_registered_with_ad_server (1018) {'assignmentId': [u'3IAEQB9FMF56TR5QIZNH1RITPIVWDN'], 'workerId': [u'AA9SBG7LNCG8Q'], 'hitId': [u'3FVBZG9CLJZSAXBELM8LWYSXKOX0HB'], 'mode': [u'live']}
+[2019-08-01 21:43:51 +0000] [30538] [CRITICAL] WORKER TIMEOUT (pid:30845)
+[2019-08-01 21:48:21 +0000] [30538] [CRITICAL] WORKER TIMEOUT (pid:30939)
+[2019-08-01 21:49:44 +0000] [30538] [CRITICAL] WORKER TIMEOUT (pid:30879)
+2019-08-01 21:58:17,008 hit_not_registered_with_ad_server (1018) {'assignmentId': [u'3WYP994K18CBXNLBNDXRGITHJ4EY62'], 'workerId': [u'A3HJH6PDKSOJ53'], 'hitId': [u'3FVBZG9CLJZSAXBELM8LWYSXKOX0HB'], 'mode': [u'live']}
+[2019-08-01 22:04:29 +0000] [30538] [CRITICAL] WORKER TIMEOUT (pid:30943)
+[2019-08-01 22:04:36 +0000] [30538] [CRITICAL] WORKER TIMEOUT (pid:30947)
+[2019-08-01 22:11:58 +0000] [30538] [CRITICAL] WORKER TIMEOUT (pid:30861)
+2019-08-01 22:57:20,500 hit_not_registered_with_ad_server (1018) {'assignmentId': [u'3UWN2HHPUZQM8MFUNORJ07R2X98NSO'], 'workerId': [u'AK8UFPN8QOSK5'], 'hitId': [u'3FVBZG9CLJZSAXBELM8LWYSXKOX0HB'], 'mode': [u'live']}
+2019-08-01 23:03:59,696 already_started_exp (1008) {'assignmentId': [u'3WT783CTPC240W11NCWAU7NQUHFCB1'], 'workerId': [u'AW7QSU7VMJEIR'], 'hitId': [u'3FVBZG9CLJZSAXBELM8LWYSXKOX0HB'], 'mode': [u'live']}
+2019-08-01 23:12:01,288 hit_not_registered_with_ad_server (1018) {'assignmentId': [u'3JBT3HLQF9NJCJDLYVYJ0PT0K38PZQ'], 'workerId': [u'A143J3H0S644SM'], 'hitId': [u'3FVBZG9CLJZSAXBELM8LWYSXKOX0HB'], 'mode': [u'live']}
+2019-08-01 23:51:05,861 hit_not_registered_with_ad_server (1018) {'assignmentId': [u'3P59JYT76M5RY03GQ5YPIOKQOXY2T4'], 'workerId': [u'A1EP3XESXAG0EP'], 'hitId': [u'3FVBZG9CLJZSAXBELM8LWYSXKOX0HB'], 'mode': [u'live']}
+2019-08-02 01:08:09,173 hit_not_registered_with_ad_server (1018) {'assignmentId': [u'3GNCZX450J8IBB5DM3IKJW2RBIJPA7'], 'workerId': [u'A236Q44JMSRFVF'], 'hitId': [u'3FVBZG9CLJZSAXBELM8LWYSXKOX0HB'], 'mode': [u'live']}

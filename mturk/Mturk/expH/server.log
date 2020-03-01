@@ -1,0 +1,33 @@
+2019-10-26 23:14:20,232 already_started_exp (1008) {'assignmentId': [u'3RXCAC0YISAYFAJZMM8JTWI4V548G5'], 'workerId': [u'AKJ22H1NTVIQX'], 'hitId': [u'3BCRDCM0ODFEQYY1TWRZIRIGR316KS'], 'mode': [u'live']}
+2019-10-26 23:41:34,486 already_started_exp (1008) {'assignmentId': [u'3TAYZSBPLMTQJ0Q115TZ8JO4XH9S2B'], 'workerId': [u'A1UOIJJQTPB7M5'], 'hitId': [u'3BCRDCM0ODFEQYY1TWRZIRIGR316KS'], 'mode': [u'live']}
+[2019-10-27 00:20:49 +0000] [1586] [CRITICAL] WORKER TIMEOUT (pid:1591)
+[2019-10-27 00:36:22 +0000] [1586] [CRITICAL] WORKER TIMEOUT (pid:1592)
+[2019-10-27 01:06:04 +0000] [1586] [CRITICAL] WORKER TIMEOUT (pid:1675)
+[2019-10-27 01:07:04 +0000] [1586] [CRITICAL] WORKER TIMEOUT (pid:1683)
+2019-10-27 01:28:47,811 already_started_exp (1008) {'assignmentId': [u'3Y5140Z9DY1XHTOBYRAX0UQAZTAPIE'], 'workerId': [u'A2GY6KFEGAZ9IE'], 'hitId': [u'3BCRDCM0ODFEQYY1TWRZIRIGR316KS'], 'mode': [u'live']}
+[2019-10-27 02:38:43 +0000] [1708] [ERROR] Socket error processing request.
+Traceback (most recent call last):
+  File "/home/ubuntu/anaconda3/envs/envname/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = six.next(parser)
+  File "/home/ubuntu/anaconda3/envs/envname/lib/python2.7/site-packages/gunicorn/http/parser.py", line 41, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.req_count)
+  File "/home/ubuntu/anaconda3/envs/envname/lib/python2.7/site-packages/gunicorn/http/message.py", line 181, in __init__
+    super(Request, self).__init__(cfg, unreader)
+  File "/home/ubuntu/anaconda3/envs/envname/lib/python2.7/site-packages/gunicorn/http/message.py", line 54, in __init__
+    unused = self.parse(self.unreader)
+  File "/home/ubuntu/anaconda3/envs/envname/lib/python2.7/site-packages/gunicorn/http/message.py", line 230, in parse
+    self.headers = self.parse_headers(data[:idx])
+  File "/home/ubuntu/anaconda3/envs/envname/lib/python2.7/site-packages/gunicorn/http/message.py", line 74, in parse_headers
+    remote_addr = self.unreader.sock.getpeername()
+  File "/home/ubuntu/anaconda3/envs/envname/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 107] Transport endpoint is not connected
+[2019-10-27 02:38:52 +0000] [1586] [CRITICAL] WORKER TIMEOUT (pid:1712)
+[2019-10-27 02:39:01 +0000] [1586] [CRITICAL] WORKER TIMEOUT (pid:1590)
+[2019-10-27 02:43:40 +0000] [1586] [CRITICAL] WORKER TIMEOUT (pid:1708)
+[2019-10-27 02:43:44 +0000] [1586] [CRITICAL] WORKER TIMEOUT (pid:1795)
+2019-10-27 03:34:50,217 already_started_exp (1008) {'assignmentId': [u'39LOEL67OTQXLY7BR71ZA2TVR1H38C'], 'workerId': [u'A3IX3XVGPJH2I7'], 'hitId': [u'3BCRDCM0ODFEQYY1TWRZIRIGR316KS'], 'mode': [u'live']}
+2019-10-27 03:34:56,712 already_started_exp (1008) {'assignmentId': [u'39LOEL67OTQXLY7BR71ZA2TVR1H38C'], 'workerId': [u'A3IX3XVGPJH2I7'], 'hitId': [u'3BCRDCM0ODFEQYY1TWRZIRIGR316KS'], 'mode': [u'live']}
+2019-10-27 08:19:10,863 hit_not_registered_with_ad_server (1018) {'assignmentId': [u'3R6BYFZZP8XIGBOCJAETRAZLL0WFX6'], 'workerId': [u'A9189NV85IC2Y'], 'hitId': [u'3BCRDCM0ODFEQYY1TWRZIRIGR316KS'], 'mode': [u'live']}
+2019-10-27 13:31:19,853 hit_not_registered_with_ad_server (1018) {'assignmentId': [u'3Z4XG4ZF49C91WEPBW8NHIIZYWL8XK'], 'workerId': [u'A30HUZHJBOX1LK'], 'hitId': [u'3BCRDCM0ODFEQYY1TWRZIRIGR316KS'], 'mode': [u'live']}
+2019-10-28 10:21:07,459 hit_not_registered_with_ad_server (1018) {'assignmentId': [u'3K772S5NP9WTO7O1JVC166QRLBPHES'], 'workerId': [u'A161AJDHLJVCLZ'], 'hitId': [u'3BCRDCM0ODFEQYY1TWRZIRIGR316KS'], 'mode': [u'live']}

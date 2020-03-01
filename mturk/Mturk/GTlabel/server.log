@@ -1,0 +1,259 @@
+[2019-07-18 18:05:10 +0000] [11988] [CRITICAL] WORKER TIMEOUT (pid:11993)
+2019-07-18 19:20:30,313 hit_not_registered_with_ad_server (1018) {'assignmentId': [u'37Q970SNZH07RW02UVZQXZFL671S1E'], 'workerId': [u'A1P2RQ166VS5BT'], 'hitId': [u'337F8MIIM15MW2FFI9U6W7KJL6804Q'], 'mode': [u'live']}
+2019-07-18 20:57:22,819 hit_not_registered_with_ad_server (1018) {'assignmentId': [u'31Z0PCVWUN7MHISJ8BLP8E2KBCOT7A'], 'workerId': [u'AT6LDQNLKTUSE'], 'hitId': [u'337F8MIIM15MW2FFI9U6W7KJL6804Q'], 'mode': [u'live']}
+[2019-07-19 15:34:13 +0000] [12276] [CRITICAL] WORKER TIMEOUT (pid:12281)
+[2019-07-19 15:34:20 +0000] [12276] [CRITICAL] WORKER TIMEOUT (pid:12280)
+[2019-07-19 15:35:14 +0000] [12276] [CRITICAL] WORKER TIMEOUT (pid:16829)
+[2019-07-19 15:35:56 +0000] [12276] [CRITICAL] WORKER TIMEOUT (pid:12282)
+2019-07-19 15:40:46,173 already_started_exp (1008) {'assignmentId': [u'3JWH6J9I9V5BOHQPOWBT4HIO5QUNB2'], 'workerId': [u'A2BQ5SX50WYNUT'], 'hitId': [u'3R15W654VFL6I3RZ5ZN2XUDCKYLLQQ'], 'mode': [u'live']}
+[2019-07-19 15:41:55 +0000] [12276] [CRITICAL] WORKER TIMEOUT (pid:16841)
+[2019-07-19 15:42:44 +0000] [12276] [CRITICAL] WORKER TIMEOUT (pid:16837)
+[2019-07-19 15:43:50 +0000] [12276] [CRITICAL] WORKER TIMEOUT (pid:16854)
+[2019-07-19 15:46:42 +0000] [12276] [CRITICAL] WORKER TIMEOUT (pid:16850)
+[2019-07-19 15:56:36 +0000] [12276] [CRITICAL] WORKER TIMEOUT (pid:16862)
+[2019-07-19 16:06:58 +0000] [12276] [CRITICAL] WORKER TIMEOUT (pid:16833)
+[2019-07-19 16:12:36 +0000] [12276] [CRITICAL] WORKER TIMEOUT (pid:16921)
+[2019-07-19 16:12:36 +0000] [12276] [CRITICAL] WORKER TIMEOUT (pid:16858)
+[2019-07-19 16:12:52 +0000] [12276] [CRITICAL] WORKER TIMEOUT (pid:17090)
+[2019-07-19 16:13:08 +0000] [12276] [CRITICAL] WORKER TIMEOUT (pid:17097)
+[2019-07-19 16:13:16 +0000] [12276] [CRITICAL] WORKER TIMEOUT (pid:17098)
+[2019-07-19 16:13:24 +0000] [12276] [CRITICAL] WORKER TIMEOUT (pid:17105)
+[2019-07-19 16:13:39 +0000] [12276] [CRITICAL] WORKER TIMEOUT (pid:17109)
+[2019-07-19 16:13:47 +0000] [12276] [CRITICAL] WORKER TIMEOUT (pid:17113)
+[2019-07-19 16:13:56 +0000] [12276] [CRITICAL] WORKER TIMEOUT (pid:17117)
+[2019-07-19 16:14:10 +0000] [12276] [CRITICAL] WORKER TIMEOUT (pid:17123)
+[2019-07-19 16:14:18 +0000] [12276] [CRITICAL] WORKER TIMEOUT (pid:17127)
+[2019-07-19 16:14:27 +0000] [12276] [CRITICAL] WORKER TIMEOUT (pid:17131)
+2019-07-19 16:25:06,499 already_started_exp (1008) {'assignmentId': [u'3AQF3RZ55BATUDWDUHB8LWNNPYXF62'], 'workerId': [u'A17U82YPDOT3CW'], 'hitId': [u'3R15W654VFL6I3RZ5ZN2XUDCKYLLQQ'], 'mode': [u'live']}
+[2019-07-19 16:29:58 +0000] [12276] [CRITICAL] WORKER TIMEOUT (pid:17144)
+[2019-07-19 16:34:10 +0000] [12276] [CRITICAL] WORKER TIMEOUT (pid:17162)
+2019-07-19 16:34:10,995 api_server_not_reachable (1015) {'assignmentId': [u'3TESA3PJ3421PQ9M3KM25I4ICZOMMQ'], 'workerId': [u'A1PB9RGHUXNVP6'], 'hitId': [u'3R15W654VFL6I3RZ5ZN2XUDCKYLLQQ'], 'mode': [u'live']}
+[2019-07-19 16:35:43 +0000] [12276] [CRITICAL] WORKER TIMEOUT (pid:17166)
+[2019-07-19 16:35:44 +0000] [12276] [CRITICAL] WORKER TIMEOUT (pid:17140)
+[2019-07-19 16:38:47 +0000] [12276] [CRITICAL] WORKER TIMEOUT (pid:17170)
+[2019-07-19 16:51:48 +0000] [12276] [CRITICAL] WORKER TIMEOUT (pid:17136)
+2019-07-19 16:51:48,376 api_server_not_reachable (1015) {'assignmentId': [u'3M68NM076KZQX31MLCB22L16SMN6R3'], 'workerId': [u'A2PAYVY4HUHO36'], 'hitId': [u'3R15W654VFL6I3RZ5ZN2XUDCKYLLQQ'], 'mode': [u'live']}
+[2019-07-19 16:59:11 +0000] [12276] [CRITICAL] WORKER TIMEOUT (pid:17195)
+[2019-07-19 16:59:43 +0000] [12276] [CRITICAL] WORKER TIMEOUT (pid:17180)
+[2019-07-19 16:59:47 +0000] [12276] [CRITICAL] WORKER TIMEOUT (pid:17174)
+[2019-07-19 17:22:21 +0000] [12276] [CRITICAL] WORKER TIMEOUT (pid:17201)
+[2019-07-19 17:22:45 +0000] [12276] [CRITICAL] WORKER TIMEOUT (pid:17209)
+[2019-07-19 17:26:46 +0000] [12276] [CRITICAL] WORKER TIMEOUT (pid:17431)
+[2019-07-19 17:26:52 +0000] [12276] [CRITICAL] WORKER TIMEOUT (pid:17205)
+[2019-07-19 17:30:47 +0000] [17439] [ERROR] Socket error processing request.
+Traceback (most recent call last):
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = six.next(parser)
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/parser.py", line 41, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.req_count)
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/message.py", line 181, in __init__
+    super(Request, self).__init__(cfg, unreader)
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/message.py", line 54, in __init__
+    unused = self.parse(self.unreader)
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/message.py", line 230, in parse
+    self.headers = self.parse_headers(data[:idx])
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/message.py", line 74, in parse_headers
+    remote_addr = self.unreader.sock.getpeername()
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 107] Transport endpoint is not connected
+[2019-07-19 17:30:47 +0000] [17439] [ERROR] Socket error processing request.
+Traceback (most recent call last):
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = six.next(parser)
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/parser.py", line 41, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.req_count)
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/message.py", line 181, in __init__
+    super(Request, self).__init__(cfg, unreader)
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/message.py", line 54, in __init__
+    unused = self.parse(self.unreader)
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/message.py", line 230, in parse
+    self.headers = self.parse_headers(data[:idx])
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/message.py", line 74, in parse_headers
+    remote_addr = self.unreader.sock.getpeername()
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 107] Transport endpoint is not connected
+[2019-07-19 17:33:01 +0000] [12276] [CRITICAL] WORKER TIMEOUT (pid:17439)
+[2019-07-19 17:33:34 +0000] [12276] [CRITICAL] WORKER TIMEOUT (pid:17443)
+[2019-07-19 17:35:54 +0000] [17449] [ERROR] Socket error processing request.
+Traceback (most recent call last):
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = six.next(parser)
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/parser.py", line 41, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.req_count)
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/message.py", line 181, in __init__
+    super(Request, self).__init__(cfg, unreader)
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/message.py", line 54, in __init__
+    unused = self.parse(self.unreader)
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/message.py", line 230, in parse
+    self.headers = self.parse_headers(data[:idx])
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/message.py", line 74, in parse_headers
+    remote_addr = self.unreader.sock.getpeername()
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 107] Transport endpoint is not connected
+[2019-07-19 17:35:54 +0000] [17449] [ERROR] Socket error processing request.
+Traceback (most recent call last):
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = six.next(parser)
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/parser.py", line 41, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.req_count)
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/message.py", line 181, in __init__
+    super(Request, self).__init__(cfg, unreader)
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/message.py", line 54, in __init__
+    unused = self.parse(self.unreader)
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/message.py", line 230, in parse
+    self.headers = self.parse_headers(data[:idx])
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/message.py", line 74, in parse_headers
+    remote_addr = self.unreader.sock.getpeername()
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 107] Transport endpoint is not connected
+[2019-07-19 17:35:54 +0000] [17449] [ERROR] Socket error processing request.
+Traceback (most recent call last):
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = six.next(parser)
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/parser.py", line 41, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.req_count)
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/message.py", line 181, in __init__
+    super(Request, self).__init__(cfg, unreader)
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/message.py", line 54, in __init__
+    unused = self.parse(self.unreader)
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/message.py", line 230, in parse
+    self.headers = self.parse_headers(data[:idx])
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/message.py", line 74, in parse_headers
+    remote_addr = self.unreader.sock.getpeername()
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 107] Transport endpoint is not connected
+[2019-07-19 17:35:54 +0000] [17449] [ERROR] Socket error processing request.
+Traceback (most recent call last):
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = six.next(parser)
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/parser.py", line 41, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.req_count)
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/message.py", line 181, in __init__
+    super(Request, self).__init__(cfg, unreader)
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/message.py", line 54, in __init__
+    unused = self.parse(self.unreader)
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/message.py", line 230, in parse
+    self.headers = self.parse_headers(data[:idx])
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/message.py", line 74, in parse_headers
+    remote_addr = self.unreader.sock.getpeername()
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 107] Transport endpoint is not connected
+[2019-07-19 17:35:54 +0000] [17449] [ERROR] Socket error processing request.
+Traceback (most recent call last):
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = six.next(parser)
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/parser.py", line 41, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.req_count)
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/message.py", line 181, in __init__
+    super(Request, self).__init__(cfg, unreader)
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/message.py", line 54, in __init__
+    unused = self.parse(self.unreader)
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/message.py", line 230, in parse
+    self.headers = self.parse_headers(data[:idx])
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/message.py", line 74, in parse_headers
+    remote_addr = self.unreader.sock.getpeername()
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 107] Transport endpoint is not connected
+[2019-07-19 17:35:54 +0000] [17449] [ERROR] Socket error processing request.
+Traceback (most recent call last):
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = six.next(parser)
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/parser.py", line 41, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.req_count)
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/message.py", line 181, in __init__
+    super(Request, self).__init__(cfg, unreader)
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/message.py", line 54, in __init__
+    unused = self.parse(self.unreader)
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/message.py", line 230, in parse
+    self.headers = self.parse_headers(data[:idx])
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/message.py", line 74, in parse_headers
+    remote_addr = self.unreader.sock.getpeername()
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 107] Transport endpoint is not connected
+[2019-07-19 17:35:54 +0000] [17449] [ERROR] Socket error processing request.
+Traceback (most recent call last):
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = six.next(parser)
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/parser.py", line 41, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.req_count)
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/message.py", line 181, in __init__
+    super(Request, self).__init__(cfg, unreader)
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/message.py", line 54, in __init__
+    unused = self.parse(self.unreader)
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/message.py", line 230, in parse
+    self.headers = self.parse_headers(data[:idx])
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/message.py", line 74, in parse_headers
+    remote_addr = self.unreader.sock.getpeername()
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 107] Transport endpoint is not connected
+[2019-07-19 17:35:54 +0000] [17449] [ERROR] Socket error processing request.
+Traceback (most recent call last):
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = six.next(parser)
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/parser.py", line 41, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.req_count)
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/message.py", line 181, in __init__
+    super(Request, self).__init__(cfg, unreader)
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/message.py", line 54, in __init__
+    unused = self.parse(self.unreader)
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/message.py", line 230, in parse
+    self.headers = self.parse_headers(data[:idx])
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/message.py", line 74, in parse_headers
+    remote_addr = self.unreader.sock.getpeername()
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 107] Transport endpoint is not connected
+[2019-07-19 17:35:54 +0000] [17449] [ERROR] Socket error processing request.
+Traceback (most recent call last):
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = six.next(parser)
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/parser.py", line 41, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.req_count)
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/message.py", line 181, in __init__
+    super(Request, self).__init__(cfg, unreader)
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/message.py", line 54, in __init__
+    unused = self.parse(self.unreader)
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/message.py", line 230, in parse
+    self.headers = self.parse_headers(data[:idx])
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/message.py", line 74, in parse_headers
+    remote_addr = self.unreader.sock.getpeername()
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 107] Transport endpoint is not connected
+[2019-07-19 17:35:54 +0000] [17449] [ERROR] Socket error processing request.
+Traceback (most recent call last):
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = six.next(parser)
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/parser.py", line 41, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.req_count)
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/message.py", line 181, in __init__
+    super(Request, self).__init__(cfg, unreader)
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/message.py", line 54, in __init__
+    unused = self.parse(self.unreader)
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/message.py", line 230, in parse
+    self.headers = self.parse_headers(data[:idx])
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/site-packages/gunicorn/http/message.py", line 74, in parse_headers
+    remote_addr = self.unreader.sock.getpeername()
+  File "/home/ubuntu/anaconda3/envs/myenv/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 107] Transport endpoint is not connected
+[2019-07-19 17:35:58 +0000] [12276] [CRITICAL] WORKER TIMEOUT (pid:17453)
+[2019-07-19 17:36:03 +0000] [12276] [CRITICAL] WORKER TIMEOUT (pid:17435)
+[2019-07-19 17:37:28 +0000] [12276] [CRITICAL] WORKER TIMEOUT (pid:17463)
+[2019-07-19 17:52:04 +0000] [12276] [CRITICAL] WORKER TIMEOUT (pid:17449)
+2019-07-19 18:06:02,579 hit_not_registered_with_ad_server (1018) {'assignmentId': [u'3ZGVPD4G6W951SYPR6D8ZYVJLCVTZA'], 'workerId': [u'A37VBAMFEQKJO4'], 'hitId': [u'3R15W654VFL6I3RZ5ZN2XUDCKYLLQQ'], 'mode': [u'live']}
+[2019-07-19 18:10:18 +0000] [12276] [CRITICAL] WORKER TIMEOUT (pid:17459)
+[2019-07-19 18:18:30 +0000] [12276] [CRITICAL] WORKER TIMEOUT (pid:17594)
+[2019-07-19 18:18:31 +0000] [12276] [CRITICAL] WORKER TIMEOUT (pid:17722)
+[2019-07-19 18:28:28 +0000] [12276] [CRITICAL] WORKER TIMEOUT (pid:17744)
+[2019-07-19 18:28:48 +0000] [12276] [CRITICAL] WORKER TIMEOUT (pid:17740)
+[2019-07-19 22:04:24 +0000] [12276] [CRITICAL] WORKER TIMEOUT (pid:17758)

@@ -1,0 +1,32 @@
+[2019-10-26 22:34:48 +0000] [1595] [CRITICAL] WORKER TIMEOUT (pid:1599)
+2019-10-26 23:30:45,608 already_started_exp (1008) {'assignmentId': [u'3WI0P0II62D1LVO4J5DBESAC85CDRC'], 'workerId': [u'AN1HXSI6M28FM'], 'hitId': [u'3FULMHZ7OUIV1ZUQVKB006Q6KHQM4S'], 'mode': [u'live']}
+[2019-10-26 23:48:10 +0000] [1629] [ERROR] Socket error processing request.
+Traceback (most recent call last):
+  File "/home/ubuntu/anaconda3/envs/envname/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = six.next(parser)
+  File "/home/ubuntu/anaconda3/envs/envname/lib/python2.7/site-packages/gunicorn/http/parser.py", line 41, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.req_count)
+  File "/home/ubuntu/anaconda3/envs/envname/lib/python2.7/site-packages/gunicorn/http/message.py", line 181, in __init__
+    super(Request, self).__init__(cfg, unreader)
+  File "/home/ubuntu/anaconda3/envs/envname/lib/python2.7/site-packages/gunicorn/http/message.py", line 54, in __init__
+    unused = self.parse(self.unreader)
+  File "/home/ubuntu/anaconda3/envs/envname/lib/python2.7/site-packages/gunicorn/http/message.py", line 230, in parse
+    self.headers = self.parse_headers(data[:idx])
+  File "/home/ubuntu/anaconda3/envs/envname/lib/python2.7/site-packages/gunicorn/http/message.py", line 74, in parse_headers
+    remote_addr = self.unreader.sock.getpeername()
+  File "/home/ubuntu/anaconda3/envs/envname/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 107] Transport endpoint is not connected
+[2019-10-26 23:48:23 +0000] [1595] [CRITICAL] WORKER TIMEOUT (pid:1601)
+[2019-10-26 23:48:25 +0000] [1595] [CRITICAL] WORKER TIMEOUT (pid:1600)
+2019-10-26 23:53:42,917 already_started_exp (1008) {'assignmentId': [u'3Z4XG4ZF49C91WEPBW8NHIIZYV0X8M'], 'workerId': [u'A3BLJ6QSDTZC9U'], 'hitId': [u'3FULMHZ7OUIV1ZUQVKB006Q6KHQM4S'], 'mode': [u'live']}
+2019-10-26 23:53:54,047 already_started_exp (1008) {'assignmentId': [u'3Z4XG4ZF49C91WEPBW8NHIIZYV0X8M'], 'workerId': [u'A3BLJ6QSDTZC9U'], 'hitId': [u'3FULMHZ7OUIV1ZUQVKB006Q6KHQM4S'], 'mode': [u'live']}
+[2019-10-27 00:40:42 +0000] [1595] [CRITICAL] WORKER TIMEOUT (pid:1629)
+[2019-10-27 00:41:02 +0000] [1595] [CRITICAL] WORKER TIMEOUT (pid:1683)
+[2019-10-27 00:41:05 +0000] [1595] [CRITICAL] WORKER TIMEOUT (pid:1687)
+2019-10-27 00:41:17,037 hit_not_registered_with_ad_server (1018) {'assignmentId': [u'3DY46V3X3Q3HCVBD7SIPDFHO37Z55U'], 'workerId': [u'A3GCIUNB9JBQTG'], 'hitId': [u'3FULMHZ7OUIV1ZUQVKB006Q6KHQM4S'], 'mode': [u'live']}
+[2019-10-27 00:41:42 +0000] [1595] [CRITICAL] WORKER TIMEOUT (pid:1731)
+2019-10-27 01:22:06,457 hit_not_registered_with_ad_server (1018) {'assignmentId': [u'3DUZQ9U6SN9ZGRO3PFDAAOLFUF5SVM'], 'workerId': [u'A1P3Z24Y6GRNVA'], 'hitId': [u'3FULMHZ7OUIV1ZUQVKB006Q6KHQM4S'], 'mode': [u'live']}
+2019-10-27 01:56:54,150 hit_not_registered_with_ad_server (1018) {'assignmentId': [u'30BXRYBRP5IN57AS4V67SCXRSDZHW9'], 'workerId': [u'A1HVS6D6MGY9JO'], 'hitId': [u'3FULMHZ7OUIV1ZUQVKB006Q6KHQM4S'], 'mode': [u'live']}
+2019-10-27 03:42:35,329 hit_not_registered_with_ad_server (1018) {'assignmentId': [u'31T4R4OBOT1HYKYBAVKUP51UMUNC7V'], 'workerId': [u'A110ICG2VQUGXS'], 'hitId': [u'3FULMHZ7OUIV1ZUQVKB006Q6KHQM4S'], 'mode': [u'live']}
+2019-10-28 10:53:43,530 hit_not_registered_with_ad_server (1018) {'assignmentId': [u'3CTOC39K38B46Y4HKN1GC9EPCGTJ7H'], 'workerId': [u'A27VFM67RPD2L5'], 'hitId': [u'3FULMHZ7OUIV1ZUQVKB006Q6KHQM4S'], 'mode': [u'live']}

@@ -1,0 +1,7 @@
+CompileAllExpB_qr
+CompileAllExpC_qr
+CompileAllExpD_qr
+CompileAllExpE_qr
+CompileAllExpG_qr
+CompileAllExpH_qr
+CompileAllExps_qr_timing

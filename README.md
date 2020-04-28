@@ -4,7 +4,7 @@ Authors: Mengmi Zhang, Claire Tseng, Gabriel Kreiman
 
 This repository contains an implementation of a recurrent attention deep learning model for recognizing objects in complex backgrounds in natural scenes. Our paper has been accepted in CVPR 2020.
 
-Access to our unofficial manuscript [HERE](https://arxiv.org/pdf/1911.07349.pdf) and supplementary material [HERE](https://91f51bbc-dd64-485b-bf6c-40ee535dfec0.filesusr.com/ugd/d2b381_d398310448f545ca8403048958e4557a.pdf)
+Access to our unofficial manuscript [HERE](https://arxiv.org/pdf/1911.07349.pdf), supplementary material [HERE](https://91f51bbc-dd64-485b-bf6c-40ee535dfec0.filesusr.com/ugd/d2b381_d398310448f545ca8403048958e4557a.pdf) and presentation video [HERE](https://www.youtube.com/watch?v=ZpoUajxZPNY).
 
 ## Project Description
 
@@ -49,6 +49,12 @@ We used the images for psychophysics expeirments to test computational models. T
 To have a quick idea of how generated test images look like, examples of generated test images for experiment A have been stored in ```Matlab/Stimulus/keyframe_expA/```. Running ```Matlab/demo_expA.m``` also generates corresponding stimulus (.gif) files for presentation on Amazon Mechanical Turk. See ```samples``` folder for examples of GIF files.
 
 ## Computational Model - CATNet
+
+We provide both human behaviral and computational evidences that context is important for recognition. See below for a teaser image showing human-CATNet performance comparision under two context conditions.
+
+![Novel objects](samples/CVPR_teaserimg.gif)
+
+The teaser image containing two examples (row 1: full context; row 2: minimal context ). Column 1: ground truth, Column 2: human psychophysics trial; Column 3: attention map and label predicted by our proposed computational model
 
 ### Pre-requisite
 

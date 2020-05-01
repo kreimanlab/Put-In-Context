@@ -4,7 +4,7 @@ Authors: Mengmi Zhang, Claire Tseng, Gabriel Kreiman
 
 This repository contains an implementation of a recurrent attention deep learning model for recognizing objects in complex backgrounds in natural scenes. Our paper has been accepted in CVPR 2020.
 
-Access to our unofficial manuscript [HERE](https://arxiv.org/pdf/1911.07349.pdf), supplementary material [HERE](https://91f51bbc-dd64-485b-bf6c-40ee535dfec0.filesusr.com/ugd/d2b381_d398310448f545ca8403048958e4557a.pdf) and presentation video [HERE](https://www.youtube.com/watch?v=ZpoUajxZPNY).
+Access to our unofficial manuscript [HERE](https://arxiv.org/pdf/1911.07349.pdf), supplementary material [HERE](https://91f51bbc-dd64-485b-bf6c-40ee535dfec0.filesusr.com/ugd/d2b381_d398310448f545ca8403048958e4557a.pdf), poster [HERE](https://91f51bbc-dd64-485b-bf6c-40ee535dfec0.filesusr.com/ugd/d2b381_85d9e197211c496dab2596fcef79eea5.pdf) and presentation video [HERE](https://www.youtube.com/watch?v=ZpoUajxZPNY).
 
 ## Project Description
 

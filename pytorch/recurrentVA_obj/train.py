@@ -185,7 +185,7 @@ def train(train_loader, encoder, decoder, transform, criterion, encoder_optimize
         #embeddings = torch.zeros(batch_size, vocab_size).scatter_(1, labels.unsqueeze(1), 1.).to(device)
                 
         # forward everything
-        scores, alphas_obj, alphas_context, acc_alphas_obj, acc_alphas_context,  _ = decoder(encoder, transform, imgs, blurs, binimgs, click_steps, batch_size, imgsz, ClickRadius, crimg)
+        scores, alphas_obj, alphas_context, _ = decoder(encoder, transform, imgs, blurs, binimgs, click_steps, batch_size, imgsz, ClickRadius, crimg)
         #print('scores')
         #print(scores)
         #print('alphas')
@@ -194,8 +194,6 @@ def train(train_loader, encoder, decoder, transform, criterion, encoder_optimize
         # a tensor of dimension, [batchsize, mouseclick steps, 1] where each entry refers to a target label choosing from [1,80]
         targets = labels.to(device).unsqueeze(1).repeat(1,click_steps).view(-1)
         scores = scores.view(-1,vocab_size)
-        #scores_obj = scores_obj.view(-1,vocab_size)
-        #scores_context = scores_context.view(-1,vocab_size)
         #print('targets')
         #print(targets.shape)
         #print('scores')
@@ -208,7 +206,7 @@ def train(train_loader, encoder, decoder, transform, criterion, encoder_optimize
 
         # Calculate loss
         loss = criterion(scores, targets)
-        #loss = loss + 0.5*criterion(scores_obj, targets) + 0.5*criterion(scores_context, targets)
+
         #scores = scores.view(batch_size,click_steps ,vocab_size)
         #targets = targets.view(batch_size, click_steps)
         #spread = ((1. - alphas.sum(dim=1)) ** 2).mean()

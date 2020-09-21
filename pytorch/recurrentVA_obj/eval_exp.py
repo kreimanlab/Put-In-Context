@@ -113,7 +113,7 @@ def evaluate():
 #        print(imgname)
         
         # forward everything
-        scores_obj, scores_context, scores, alphas_obj, alphas_context, clickS = decoder(encoder, transform, imgs, blurs, binimgs, click_steps, batch_size, imgsz, ClickRadius, crimg)
+        scores, alphas_obj, alphas_context, clickS = decoder(encoder, transform, imgs, blurs, binimgs, click_steps, batch_size, imgsz, ClickRadius, crimg)
 #        print('scores')
 #        print(scores.shape)
         #print('alphas')

@@ -35,7 +35,7 @@ if os.path.exists('results_' + expname):
 else:
     os.mkdir('results_' + expname)
 
-trialtype = 3 #choose among 1, 2, 3
+trialtype = 2 #choose among 1, 2, 3
 if trialtype == 1:
     TSC = 2 #time step in each LSTM trial
 elif trialtype == 2:
@@ -48,7 +48,7 @@ click_steps = 17
 workers = 1
 decode_lengths = torch.ones(batch_size)*click_steps #constant number of mouse clicks
 
-checkpoint = 'models/checkpoint_2.pth.tar'  # model checkpoint
+checkpoint = 'models/checkpoint_4.pth.tar'  # model checkpoint
 #word_map_file = '/home/mengmi/Projects/Proj_context1/Datalist/ClassLabelList.txt'  # word map, ensure it's the same the data was encoded with and the model was trained with
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")  # sets device for model and PyTorch tensors
 cudnn.benchmark = True  # set to true only if inputs to model are fixed size; otherwise lot of computational overhead
@@ -117,7 +117,7 @@ def evaluate():
 #        print(imgname)
         
         # forward everything
-        scores_obj, scores_context, scores, alphas_obj, alphas_context, clickS = decoder.forwardExpB(encoder, transform, imgs, blurs, binimgs, click_steps, batch_size, imgsz, ClickRadius, Pmask, TSC, crimg)
+        scores, alphas_obj, alphas_context, clickS = decoder.forwardExpB(encoder, transform, imgs, blurs, binimgs, click_steps, batch_size, imgsz, ClickRadius, Pmask, TSC, crimg)
 #        print('scores')
 #        print(scores.shape)
         #print('alphas')

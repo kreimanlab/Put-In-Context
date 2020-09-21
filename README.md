@@ -93,30 +93,30 @@ git clone https://github.com/kreimanlab/Put-In-Context.git
 ### Train our model
 Run the following in the command window:
 ```
-cd pytorch/recurrentVA_lstm/
+cd pytorch/recurrentVA_obj/
 python train.py
 ```
 ### Test our model
 
-Download our pre-trained model from [HERE](https://drive.google.com/open?id=16So2IEG5Ct68MJ7w3W7TZP1E1J_8g_iL) and place the downloaded model ```checkpoint_2.pth.tar``` in folder ```pytorch/recurrentVA_lstm/models/```
+Download our pre-trained model from [HERE](https://drive.google.com/file/d/1RBHC1IDLVRNEiuO7qk3sWEf5HeHIyMRp/view?usp=sharing) and place the downloaded model ```checkpoint_4.pth.tar``` in folder ```pytorch/recurrentVA_obj/models/```
 
-Test the pre-trained model donwloaded on experiment A and B. Modify line 25 in ```pytorch/recurrentVA_lstm/eval_exp.py``` 
+Test the pre-trained model donwloaded on experiment A and B. Modify line 25 in ```pytorch/recurrentVA_obj/eval_exp.py``` 
 ```
 expname = 'expA'; #choose one: expA, expC, expD, expE, expH
 ```
 Run the test script in command window:
 ```
-cd pytorch/recurrentVA_lstm/
+cd pytorch/recurrentVA_obj/
 python eval_exp.py
 ```
 Test the pre-trained model donwloaded on experiment C1.
 ```
-cd pytorch/recurrentVA_lstm/
+cd pytorch/recurrentVA_obj/
 python eval_expB.py
 ```
 Test the pre-trained model donwloaded on experiment C2 and C3.
 ```
-cd pytorch/recurrentVA_lstm/
+cd pytorch/recurrentVA_obj/
 python eval_expG.py
 ```
 ***NOTE*** Paths and directories in these scripts might need to be modified before training or testing.

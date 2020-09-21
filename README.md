@@ -98,7 +98,7 @@ python train.py
 ```
 ### Test our model
 
-Download our pre-trained model from [HERE](https://drive.google.com/file/d/1VLR4EEYhpg4Epp8CfjyxVrAcYRpuRYmZ/view?usp=sharing) and place the downloaded model ```checkpoint_2.pth.tar``` in folder ```pytorch/recurrentVA_obj/models/```
+Download our pre-trained model from [HERE](https://drive.google.com/file/d/1RBHC1IDLVRNEiuO7qk3sWEf5HeHIyMRp/view?usp=sharing) and place the downloaded model ```checkpoint_4.pth.tar``` in folder ```pytorch/recurrentVA_obj/models/```
 
 Test the pre-trained model donwloaded on experiment A and B. Modify line 25 in ```pytorch/recurrentVA_obj/eval_exp.py``` 
 ```

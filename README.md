@@ -187,6 +187,10 @@ To plot results for human performance, one can either plot the results for indiv
 
 Copy the downloaded source codes to EC2 server and run the psiturk experiment online. Refer to [HERE](https://drive.google.com/open?id=1FblDG7OuWXVRfWo0Djb5eDiYgKqnk9wU) for detailed instruction.
 
+### Errata
+
+There is a bug in Matlab code ```mturk/ProcessMturk/CompileAllExp*.m```; we have fixed them and updated the code for the latest version. All the original conclusions in the paper remain the same. 
+
 ## Notes
 
 The source code is for illustration purpose only. Path reconfigurations may be needed to run some MATLAB scripts. We do not provide techinical supports but we would be happy to discuss about SCIENCE!

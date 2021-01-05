@@ -90,7 +90,7 @@ for i = startingMturkData:length(mturkData)
         end
         
         if flag == 0
-            if fcn_spellcheck(res, gt)==1 | strcmp(res, gt)==1
+            if fcn_spellcheck(res, gt)==1  || length(find(strcmp(res, gt)==1)) > 0
             %if strcmp(res, gt)
                 correct = 1;
             else
